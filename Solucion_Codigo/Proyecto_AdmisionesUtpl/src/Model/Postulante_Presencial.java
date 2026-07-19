@@ -1,5 +1,7 @@
 package Model;
 
+import java.util.ArrayList;
+
 public class Postulante_Presencial extends Postulante {
     private Examen examenOpc1;
     private Examen examenOpc2;
@@ -47,5 +49,17 @@ public class Postulante_Presencial extends Postulante {
     @Override
     public String getEstadoOpc2() {
         return examenOpc2 != null ? examenOpc2.getEstado() : "PENDIENTE";
+    }
+
+    @Override
+    public ArrayList<Examen> getExamenesPendientesDeCupo() {
+        ArrayList<Examen> pendientes = new ArrayList<>();
+        if (examenOpc1 != null && examenOpc1.getEstado().equals("PENDIENTE_CUPO")) {
+            pendientes.add(examenOpc1);
+        }
+        if (examenOpc2 != null && examenOpc2.getEstado().equals("PENDIENTE_CUPO")) {
+            pendientes.add(examenOpc2);
+        }
+        return pendientes;
     }
 }

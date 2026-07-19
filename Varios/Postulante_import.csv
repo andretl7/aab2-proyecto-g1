@@ -1,0 +1,1001 @@
+cedula,nombre,opcion1,opcion2,modalidad,esAbanderado,bachilleratoAfin,capacidadEspecial,porcentajeCapacidadEspecial,esBachiller
+1101000000,Manuel Torres,Medicina,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000001,Adriana Fuentes,Bioquimica y Farmacia,Psicopedagogia,PRESENCIAL,0,1,0,0,0
+1101000002,Gabriel Salazar,Medicina,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000003,Miguel Vega,Psicologia,Finanzas,PRESENCIAL,0,1,0,0,0
+1101000004,Javier Romero,Biologia,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000005,Sofia Medina,Nutricion y Dietetica,Geologia,PRESENCIAL,0,0,0,0,0
+1101000006,Raul Delgado,Comunicacion,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000007,Manuel Ibarra,Telecomunicaciones,Ingenieria Ambiental,PRESENCIAL,0,0,1,43,0
+1101000008,Elena Diaz,Bioquimica y Farmacia,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000009,Fernanda Flores,Ingenieria Ambiental,Geologia,PRESENCIAL,0,0,0,0,0
+1101000010,Beatriz Rodriguez,Psicopedagogia,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000011,Alejandro Silva,Pedagogia de los Idiomas Nac. y Ext.,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000012,Elena Martinez,Economia,Telecomunicaciones,PRESENCIAL,1,0,0,0,0
+1101000013,Isabella Molina,Artes Visuales,Biologia,PRESENCIAL,0,0,0,0,0
+1101000014,Beatriz Delgado,Psicologia Clinica,Marketing,PRESENCIAL,0,0,0,0,0
+1101000015,Sandra Cabrera,Agropecuaria,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000016,Gabriel Soto,Bioquimica y Farmacia,Ingenieria en Sistemas Computacionales,PRESENCIAL,1,1,0,0,0
+1101000017,Adriana Romero,Psicopedagogia,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000018,Sebastian Aguirre,Telecomunicaciones,Medicina,PRESENCIAL,0,1,0,0,0
+1101000019,Hector Silva,Ingenieria Civil,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000020,Juan Ortiz,Ciencias Politicas y Rel. Internacionales,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000021,Natalia Contreras,Psicopedagogia,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000022,Elena Ramos,Medicina,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000023,Natalia Castillo,Enfermeria,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000024,Andrea Rodriguez,Ingenieria Civil,Comunicacion,PRESENCIAL,0,1,0,0,0
+1101000025,Silvia Flores,Finanzas,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000026,Daniel Reyes,Artes Visuales,Marketing,PRESENCIAL,0,0,0,0,0
+1101000027,Carolina Vega,Nutricion y Dietetica,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000028,Miguel Cabrera,Economia,Medicina,PRESENCIAL,0,0,0,0,0
+1101000029,Carlos Jimenez,Bioquimica y Farmacia,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000030,Diego Molina,Psicologia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000031,Pedro Fernandez,Artes Escenicas,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000032,Ana Fernandez,Enfermeria,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000033,Jorge Reyes,Comunicacion,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000034,Luis Vega,Ingenieria en Sistemas Computacionales,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000035,Juan Gonzalez,Ingenieria Civil,Economia,PRESENCIAL,0,0,0,0,0
+1101000036,Monica Martinez,Administracion de Empresas,Agropecuaria,PRESENCIAL,1,0,0,0,0
+1101000037,Lucia Diaz,Agropecuaria,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000038,Lorena Soto,Psicologia Clinica,Economia,PRESENCIAL,0,0,0,0,0
+1101000039,Daniel Martinez,Educacion Basica,Biologia,PRESENCIAL,0,0,0,0,0
+1101000040,Carolina Flores,Enfermeria,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000041,Adriana Castillo,Geologia,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000042,Carlos Ibarra,Bioquimica y Farmacia,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000043,Sebastian Cruz,Artes Escenicas,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000044,Beatriz Herrera,Alimentos,Biologia,PRESENCIAL,0,0,1,55,0
+1101000045,Antonio Fernandez,Bioquimica y Farmacia,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000046,Luis Castillo,Ingenieria Ambiental,Marketing,PRESENCIAL,0,0,0,0,0
+1101000047,Claudia Ramos,Medicina,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000048,Diego Ortiz,Nutricion y Dietetica,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000049,Isabella Jimenez,Contabilidad y Auditoria,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000050,Ana Gonzalez,Pedagogia de los Idiomas Nac. y Ext.,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000051,Diego Ortiz,Administracion de Empresas,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000052,Laura Rodriguez,Artes Visuales,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000053,Valeria Romero,Psicologia Clinica,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000054,Carlos Ruiz,Contabilidad y Auditoria,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000055,Roberto Ibarra,Educacion Basica,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000056,Camila Castro,Medicina,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000057,Pablo Castillo,Finanzas,Administracion de Empresas,PRESENCIAL,0,1,0,0,0
+1101000058,Fernando Vargas,Contabilidad y Auditoria,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000059,Miguel Vargas,Medicina,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000060,Elena Silva,Ingenieria Ambiental,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000061,Paola Lopez,Nutricion y Dietetica,Marketing,PRESENCIAL,0,0,0,0,0
+1101000062,Pedro Salazar,Agropecuaria,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000063,Gabriel Torres,Geologia,Psicopedagogia,PRESENCIAL,0,1,0,0,0
+1101000064,Carolina Fuentes,Artes Escenicas,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000065,Patricia Rodriguez,Artes Escenicas,Biologia,PRESENCIAL,0,0,0,0,0
+1101000066,Natalia Contreras,Marketing,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000067,Diego Reyes,Agropecuaria,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000068,Claudia Molina,Marketing,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000069,Patricia Cabrera,Psicopedagogia,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000070,Gabriel Rios,Ingenieria en Sistemas Computacionales,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000071,Pablo Ibarra,Biologia,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000072,Miguel Reyes,Psicologia Clinica,Medicina,PRESENCIAL,1,0,0,0,0
+1101000073,Elena Rodriguez,Alimentos,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000074,Alejandro Soto,Geologia,Economia,PRESENCIAL,0,0,0,0,0
+1101000075,Elena Fernandez,Ingenieria Civil,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000076,Lucia Martinez,Comunicacion,Economia,PRESENCIAL,0,1,0,0,0
+1101000077,Lucia Ramos,Comunicacion,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000078,Raul Contreras,Agropecuaria,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000079,Fernando Vega,Finanzas,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000080,Carolina Soto,Pedagogia de los Idiomas Nac. y Ext.,Economia,PRESENCIAL,0,1,0,0,0
+1101000081,Gabriela Jimenez,Biologia,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000082,Valeria Cruz,Bioquimica y Farmacia,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000083,Isabella Castro,Geologia,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000084,Hector Molina,Geologia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,1,0,0,0,0
+1101000085,Roberto Fuentes,Educacion Basica,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000086,Miguel Silva,Agropecuaria,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,1,0,0,0,0
+1101000087,Monica Flores,Arquitectura,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000088,Monica Cabrera,Psicologia,Artes Visuales,PRESENCIAL,1,0,0,0,0
+1101000089,Lucia Morales,Enfermeria,Marketing,PRESENCIAL,0,0,0,0,0
+1101000090,Hector Medina,Finanzas,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000091,Fernando Lopez,Educacion Basica,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000092,Luis Garcia,Ingenieria Civil,Medicina,PRESENCIAL,0,0,1,40,0
+1101000093,Daniela Ramirez,Derecho,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000094,Sebastian Guerrero,Administracion de Empresas,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000095,Andres Herrera,Nutricion y Dietetica,Psicopedagogia,PRESENCIAL,1,0,0,0,0
+1101000096,Alejandro Alvarez,Artes Visuales,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000097,Pedro Herrera,Telecomunicaciones,Artes Escenicas,PRESENCIAL,0,1,0,0,0
+1101000098,Carlos Ruiz,Comunicacion,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000099,Juan Castro,Arquitectura,Derecho,PRESENCIAL,0,0,0,0,0
+1101000100,Lucia Sanchez,Agropecuaria,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000101,Daniel Rios,Alimentos,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000102,Daniela Gonzalez,Finanzas,Derecho,PRESENCIAL,0,0,0,0,0
+1101000103,Alejandro Jimenez,Medicina,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000104,Sebastian Jimenez,Finanzas,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,1,42,0
+1101000105,Sofia Castillo,Educacion Basica,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000106,Beatriz Soto,Alimentos,Arquitectura,PRESENCIAL,1,0,0,0,0
+1101000107,Daniela Herrera,Artes Escenicas,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000108,Sandra Aguirre,Biologia,Geologia,PRESENCIAL,0,0,0,0,0
+1101000109,Laura Reyes,Biologia,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000110,Jorge Cruz,Educacion Basica,Derecho,PRESENCIAL,0,0,0,0,0
+1101000111,Francisco Diaz,Nutricion y Dietetica,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000112,Juan Fuentes,Psicologia Clinica,Marketing,PRESENCIAL,1,1,0,0,0
+1101000113,Diego Soto,Nutricion y Dietetica,Medicina,PRESENCIAL,0,0,0,0,0
+1101000114,Camila Martinez,Finanzas,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,1,0,0,0
+1101000115,Antonio Martinez,Psicologia Clinica,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000116,Daniela Torres,Comunicacion,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000117,Elena Ramos,Geologia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000118,Patricia Herrera,Psicologia,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000119,Hector Cruz,Pedagogia de los Idiomas Nac. y Ext.,Contabilidad y Auditoria,PRESENCIAL,0,1,0,0,0
+1101000120,Silvia Rodriguez,Administracion de Empresas,Medicina,PRESENCIAL,0,0,0,0,0
+1101000121,Carlos Vargas,Marketing,Educacion Basica,PRESENCIAL,0,0,1,43,0
+1101000122,Sebastian Cabrera,Artes Escenicas,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000123,Beatriz Sanchez,Finanzas,Telecomunicaciones,PRESENCIAL,0,1,0,0,0
+1101000124,Francisco Molina,Marketing,Derecho,PRESENCIAL,0,0,0,0,0
+1101000125,Gabriela Contreras,Comunicacion,Derecho,PRESENCIAL,0,0,0,0,0
+1101000126,Sandra Mendoza,Psicopedagogia,Finanzas,PRESENCIAL,1,0,0,0,0
+1101000127,Antonio Cabrera,Medicina,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,1,60,0
+1101000128,Camila Rios,Ciencias Politicas y Rel. Internacionales,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000129,Patricia Soto,Bioquimica y Farmacia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000130,Andres Jimenez,Agropecuaria,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000131,Hector Aguirre,Enfermeria,Derecho,PRESENCIAL,0,0,0,0,0
+1101000132,Elena Alvarez,Telecomunicaciones,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,1,0,0,0
+1101000133,Lucia Castro,Enfermeria,Economia,PRESENCIAL,0,0,0,0,0
+1101000134,David Martinez,Contabilidad y Auditoria,Marketing,PRESENCIAL,0,0,0,0,0
+1101000135,Javier Soto,Nutricion y Dietetica,Medicina,PRESENCIAL,0,0,0,0,0
+1101000136,Andres Herrera,Comunicacion,Medicina,PRESENCIAL,0,1,0,0,0
+1101000137,Laura Delgado,Nutricion y Dietetica,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000138,Gabriel Silva,Agropecuaria,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000139,Valeria Medina,Contabilidad y Auditoria,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000140,Gabriela Castro,Biologia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000141,Natalia Cabrera,Psicologia,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000142,Eduardo Jimenez,Comunicacion,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000143,Jorge Castillo,Psicologia,Geologia,PRESENCIAL,0,0,1,59,0
+1101000144,Fernando Medina,Geologia,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000145,Carlos Ramirez,Ciencias Politicas y Rel. Internacionales,Psicopedagogia,PRESENCIAL,0,1,0,0,0
+1101000146,Pedro Ramos,Alimentos,Medicina,PRESENCIAL,0,0,0,0,0
+1101000147,Valeria Rodriguez,Derecho,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000148,Beatriz Gonzalez,Telecomunicaciones,Biologia,PRESENCIAL,0,0,0,0,0
+1101000149,Ricardo Soto,Telecomunicaciones,Comunicacion,PRESENCIAL,1,1,0,0,0
+1101000150,Felipe Vargas,Educacion Basica,Bioquimica y Farmacia,PRESENCIAL,0,1,0,0,0
+1101000151,Pedro Vega,Administracion de Empresas,Educacion Basica,PRESENCIAL,0,1,0,0,0
+1101000152,Ana Diaz,Ingenieria Ambiental,Geologia,PRESENCIAL,0,0,0,0,0
+1101000153,Adriana Morales,Administracion de Empresas,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000154,Daniela Soto,Psicologia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000155,Pablo Perez,Ingenieria en Sistemas Computacionales,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000156,David Ruiz,Psicologia,Marketing,PRESENCIAL,0,0,0,0,0
+1101000157,Natalia Reyes,Geologia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000158,Felipe Diaz,Medicina,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000159,Adriana Martinez,Psicopedagogia,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000160,Miguel Salazar,Ingenieria en Sistemas Computacionales,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000161,Hector Ramirez,Pedagogia de los Idiomas Nac. y Ext.,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000162,David Garcia,Psicologia,Ingenieria Ambiental,PRESENCIAL,0,1,0,0,0
+1101000163,Sandra Castro,Administracion de Empresas,Economia,PRESENCIAL,0,0,0,0,0
+1101000164,Carolina Contreras,Finanzas,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000165,Felipe Jimenez,Ingenieria en Sistemas Computacionales,Nutricion y Dietetica,PRESENCIAL,0,1,0,0,0
+1101000166,Miguel Alvarez,Telecomunicaciones,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,1,0,0,0
+1101000167,Sebastian Fuentes,Nutricion y Dietetica,Derecho,PRESENCIAL,0,0,0,0,0
+1101000168,Alejandro Guerrero,Nutricion y Dietetica,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000169,Silvia Mendoza,Psicopedagogia,Economia,PRESENCIAL,0,0,0,0,0
+1101000170,Javier Herrera,Pedagogia de los Idiomas Nac. y Ext.,Agropecuaria,PRESENCIAL,0,1,1,51,0
+1101000171,Laura Fernandez,Economia,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000172,Sandra Fuentes,Agropecuaria,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000173,Pedro Soto,Psicopedagogia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000174,Isabella Vega,Alimentos,Economia,PRESENCIAL,0,1,0,0,0
+1101000175,Daniel Ruiz,Enfermeria,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000176,Lucia Gonzalez,Artes Escenicas,Contabilidad y Auditoria,PRESENCIAL,0,0,1,46,0
+1101000177,Daniela Ramirez,Ingenieria en Sistemas Computacionales,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000178,Veronica Cruz,Arquitectura,Economia,PRESENCIAL,0,1,0,0,0
+1101000179,Juan Silva,Telecomunicaciones,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000180,Laura Lopez,Psicologia Clinica,Medicina,PRESENCIAL,0,0,0,0,0
+1101000181,Maria Morales,Finanzas,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000182,Luis Rios,Alimentos,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000183,Miguel Ibarra,Enfermeria,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000184,Lucia Lopez,Enfermeria,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000185,Lorena Vega,Bioquimica y Farmacia,Nutricion y Dietetica,PRESENCIAL,0,1,0,0,0
+1101000186,Claudia Cabrera,Comunicacion,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000187,Lucia Contreras,Psicopedagogia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000188,Beatriz Aguirre,Educacion Basica,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000189,Lucia Alvarez,Agropecuaria,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000190,Fernanda Sanchez,Artes Escenicas,Derecho,PRESENCIAL,0,0,0,0,0
+1101000191,Pedro Guerrero,Ingenieria en Sistemas Computacionales,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000192,Paola Torres,Agropecuaria,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000193,Raul Martinez,Marketing,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000194,Valeria Rios,Economia,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000195,Gabriela Molina,Economia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000196,Claudia Ibarra,Artes Escenicas,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000197,Javier Silva,Medicina,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000198,Eduardo Perez,Administracion de Empresas,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000199,Manuel Lopez,Bioquimica y Farmacia,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000200,Andres Guerrero,Marketing,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000201,Ana Sanchez,Administracion de Empresas,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000202,Pablo Romero,Derecho,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000203,Laura Ruiz,Agropecuaria,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000204,Pablo Herrera,Enfermeria,Finanzas,PRESENCIAL,0,0,1,45,0
+1101000205,Isabella Ramirez,Ingenieria Civil,Finanzas,PRESENCIAL,0,1,0,0,0
+1101000206,Patricia Morales,Psicologia Clinica,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000207,Pablo Ruiz,Bioquimica y Farmacia,Agropecuaria,PRESENCIAL,0,1,1,38,0
+1101000208,Ricardo Molina,Agropecuaria,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000209,Monica Lopez,Biologia,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000210,Fernanda Gonzalez,Agropecuaria,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000211,Monica Herrera,Educacion Basica,Biologia,PRESENCIAL,0,0,1,56,0
+1101000212,Laura Ramos,Ciencias Politicas y Rel. Internacionales,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000213,Beatriz Sanchez,Economia,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000214,Hector Rodriguez,Administracion de Empresas,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000215,Veronica Vega,Artes Escenicas,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000216,Manuel Mendoza,Psicologia Clinica,Derecho,PRESENCIAL,0,0,0,0,0
+1101000217,Gabriela Cabrera,Enfermeria,Geologia,PRESENCIAL,0,0,0,0,0
+1101000218,Ana Guerrero,Arquitectura,Marketing,PRESENCIAL,0,0,0,0,0
+1101000219,Claudia Salazar,Ciencias Politicas y Rel. Internacionales,Geologia,PRESENCIAL,0,0,0,0,0
+1101000220,Carlos Vega,Ingenieria en Sistemas Computacionales,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000221,Valeria Martinez,Alimentos,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000222,Sofia Contreras,Pedagogia de los Idiomas Nac. y Ext.,Administracion de Empresas,PRESENCIAL,1,0,0,0,0
+1101000223,Carolina Ramos,Psicopedagogia,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000224,Elena Jimenez,Artes Escenicas,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000225,Paola Fernandez,Comunicacion,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000226,Francisco Sanchez,Biologia,Bioquimica y Farmacia,PRESENCIAL,0,1,0,0,0
+1101000227,Beatriz Alvarez,Psicologia Clinica,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000228,Beatriz Jimenez,Arquitectura,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000229,Adriana Ramos,Bioquimica y Farmacia,Artes Escenicas,PRESENCIAL,0,0,1,45,0
+1101000230,Camila Cruz,Biologia,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000231,Luis Diaz,Telecomunicaciones,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000232,Carolina Garcia,Artes Escenicas,Biologia,PRESENCIAL,0,0,0,0,0
+1101000233,Valeria Flores,Administracion de Empresas,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000234,Raul Vega,Enfermeria,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000235,Claudia Diaz,Ingenieria Civil,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000236,Fernando Reyes,Ingenieria Ambiental,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000237,Felipe Medina,Ciencias Politicas y Rel. Internacionales,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000238,Francisco Ramirez,Telecomunicaciones,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000239,Pedro Ramos,Telecomunicaciones,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000240,Gabriel Sanchez,Arquitectura,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000241,Eduardo Lopez,Agropecuaria,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000242,Sofia Guerrero,Economia,Medicina,PRESENCIAL,0,1,0,0,0
+1101000243,Paola Sanchez,Psicologia Clinica,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000244,Diego Rios,Alimentos,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,1,1,0,0,0
+1101000245,Valeria Aguirre,Educacion Basica,Psicopedagogia,PRESENCIAL,0,1,0,0,0
+1101000246,Natalia Torres,Enfermeria,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000247,Laura Soto,Psicopedagogia,Comunicacion,PRESENCIAL,1,0,0,0,0
+1101000248,Valeria Diaz,Agropecuaria,Medicina,PRESENCIAL,0,0,0,0,0
+1101000249,Pablo Gonzalez,Ciencias Politicas y Rel. Internacionales,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000250,Gabriel Aguirre,Medicina,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000251,Fernanda Ortiz,Educacion Basica,Medicina,PRESENCIAL,0,1,0,0,0
+1101000252,Pablo Fernandez,Ingenieria Civil,Psicologia,PRESENCIAL,0,0,1,53,0
+1101000253,Paola Morales,Arquitectura,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000254,Camila Ramirez,Bioquimica y Farmacia,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000255,Carlos Reyes,Enfermeria,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000256,Daniel Rios,Finanzas,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000257,Elena Martinez,Telecomunicaciones,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000258,Monica Vega,Geologia,Biologia,PRESENCIAL,0,0,0,0,0
+1101000259,Carolina Silva,Ingenieria en Sistemas Computacionales,Bioquimica y Farmacia,PRESENCIAL,0,1,0,0,0
+1101000260,Camila Fuentes,Marketing,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000261,David Salazar,Artes Visuales,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000262,Raul Ruiz,Psicopedagogia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000263,Luis Alvarez,Ingenieria Ambiental,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000264,Valeria Salazar,Artes Escenicas,Arquitectura,PRESENCIAL,0,1,0,0,0
+1101000265,Beatriz Guerrero,Ingenieria Ambiental,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000266,David Guerrero,Ingenieria Ambiental,Derecho,PRESENCIAL,0,0,0,0,0
+1101000267,Monica Mendoza,Pedagogia de los Idiomas Nac. y Ext.,Finanzas,PRESENCIAL,0,1,0,0,0
+1101000268,Andrea Ramos,Geologia,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000269,Isabella Ibarra,Marketing,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000270,Luis Vega,Administracion de Empresas,Educacion Basica,PRESENCIAL,0,1,0,0,0
+1101000271,Ricardo Ruiz,Artes Visuales,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000272,Andres Morales,Ingenieria en Sistemas Computacionales,Ingenieria Ambiental,PRESENCIAL,0,1,0,0,0
+1101000273,Diego Castillo,Ingenieria en Sistemas Computacionales,Derecho,PRESENCIAL,1,0,0,0,0
+1101000274,Silvia Ramirez,Psicopedagogia,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000275,Fernando Ramos,Agropecuaria,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000276,Ricardo Rodriguez,Alimentos,Derecho,PRESENCIAL,0,0,0,0,0
+1101000277,Elena Aguirre,Pedagogia de los Idiomas Nac. y Ext.,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000278,Ana Torres,Ciencias Politicas y Rel. Internacionales,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000279,Miguel Ruiz,Ciencias Politicas y Rel. Internacionales,Marketing,PRESENCIAL,0,0,0,0,0
+1101000280,Silvia Silva,Psicologia Clinica,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000281,Andres Cabrera,Psicologia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000282,Paola Molina,Enfermeria,Telecomunicaciones,PRESENCIAL,0,1,0,0,0
+1101000283,Elena Molina,Finanzas,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000284,Maria Soto,Pedagogia de los Idiomas Nac. y Ext.,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000285,Adriana Alvarez,Marketing,Derecho,PRESENCIAL,0,1,0,0,0
+1101000286,Fernando Delgado,Contabilidad y Auditoria,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000287,Raul Ruiz,Geologia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000288,Daniela Delgado,Nutricion y Dietetica,Marketing,PRESENCIAL,0,1,1,48,0
+1101000289,Claudia Castro,Economia,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000290,Jorge Flores,Derecho,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000291,Sofia Alvarez,Ciencias Politicas y Rel. Internacionales,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000292,Ana Diaz,Derecho,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000293,Daniel Perez,Telecomunicaciones,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000294,Hector Alvarez,Ingenieria Ambiental,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000295,Silvia Diaz,Bioquimica y Farmacia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000296,Claudia Ibarra,Nutricion y Dietetica,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000297,Paola Aguirre,Ingenieria Ambiental,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000298,Carlos Garcia,Enfermeria,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000299,Valeria Salazar,Ciencias Politicas y Rel. Internacionales,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000300,Claudia Herrera,Psicologia,Biologia,PRESENCIAL,0,0,0,0,0
+1101000301,Antonio Herrera,Derecho,Telecomunicaciones,PRESENCIAL,1,0,0,0,0
+1101000302,Roberto Cabrera,Marketing,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000303,Francisco Rios,Finanzas,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000304,Raul Martinez,Psicologia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000305,Alejandro Sanchez,Arquitectura,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000306,Jorge Lopez,Alimentos,Biologia,PRESENCIAL,0,0,0,0,0
+1101000307,Gabriel Ibarra,Derecho,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000308,Silvia Mendoza,Artes Escenicas,Derecho,PRESENCIAL,0,0,0,0,0
+1101000309,Daniel Jimenez,Comunicacion,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000310,Javier Ortiz,Psicopedagogia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000311,Miguel Herrera,Ingenieria Civil,Marketing,PRESENCIAL,0,0,0,0,0
+1101000312,Fernando Ruiz,Comunicacion,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000313,Daniel Medina,Geologia,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000314,Carlos Diaz,Artes Visuales,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000315,Fernando Cruz,Contabilidad y Auditoria,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000316,Diego Fernandez,Psicopedagogia,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000317,Carolina Vargas,Pedagogia de los Idiomas Nac. y Ext.,Economia,PRESENCIAL,0,0,0,0,0
+1101000318,Pedro Ramirez,Medicina,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000319,Fernando Rios,Pedagogia de los Idiomas Nac. y Ext.,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000320,Ana Gonzalez,Pedagogia de los Idiomas Nac. y Ext.,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000321,Carlos Morales,Agropecuaria,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000322,Monica Soto,Administracion de Empresas,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000323,Juan Herrera,Psicologia,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000324,Beatriz Fuentes,Ciencias Politicas y Rel. Internacionales,Derecho,PRESENCIAL,0,1,0,0,0
+1101000325,Gabriela Reyes,Ingenieria en Sistemas Computacionales,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000326,Lorena Morales,Medicina,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000327,Jorge Morales,Psicopedagogia,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000328,Sofia Alvarez,Artes Escenicas,Nutricion y Dietetica,PRESENCIAL,0,1,0,0,0
+1101000329,Daniela Perez,Finanzas,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000330,Natalia Cabrera,Educacion Basica,Psicologia,PRESENCIAL,1,0,0,0,0
+1101000331,Ana Torres,Alimentos,Marketing,PRESENCIAL,0,0,0,0,0
+1101000332,Lorena Herrera,Artes Visuales,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000333,Miguel Vargas,Psicologia Clinica,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000334,Roberto Aguirre,Derecho,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000335,Daniela Salazar,Telecomunicaciones,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000336,Luis Molina,Nutricion y Dietetica,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000337,Daniel Sanchez,Administracion de Empresas,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000338,Lorena Cabrera,Derecho,Bioquimica y Farmacia,PRESENCIAL,0,0,1,40,0
+1101000339,Gabriel Castro,Alimentos,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000340,Raul Lopez,Geologia,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000341,Carlos Romero,Ingenieria Ambiental,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000342,Luis Rios,Enfermeria,Biologia,PRESENCIAL,0,0,0,0,0
+1101000343,Raul Castro,Ingenieria Ambiental,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000344,Sofia Fuentes,Psicologia Clinica,Artes Escenicas,PRESENCIAL,0,1,0,0,0
+1101000345,Monica Ramos,Psicologia Clinica,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000346,Natalia Delgado,Artes Escenicas,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000347,Daniela Delgado,Ingenieria Ambiental,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000348,Laura Garcia,Ingenieria en Sistemas Computacionales,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000349,Maria Castillo,Contabilidad y Auditoria,Bioquimica y Farmacia,PRESENCIAL,0,1,0,0,0
+1101000350,Lorena Martinez,Economia,Ingenieria Civil,PRESENCIAL,1,0,0,0,0
+1101000351,Hector Martinez,Psicologia Clinica,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000352,Antonio Mendoza,Psicologia,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000353,Valeria Ramos,Economia,Alimentos,PRESENCIAL,0,1,0,0,0
+1101000354,Sandra Morales,Pedagogia de los Idiomas Nac. y Ext.,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000355,Beatriz Medina,Ingenieria en Sistemas Computacionales,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000356,Alejandro Morales,Ingenieria Civil,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000357,Lorena Sanchez,Ingenieria en Sistemas Computacionales,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000358,Silvia Ramos,Psicologia Clinica,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000359,David Guerrero,Bioquimica y Farmacia,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000360,Adriana Salazar,Psicopedagogia,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000361,Raul Aguirre,Contabilidad y Auditoria,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000362,Juan Cruz,Contabilidad y Auditoria,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000363,Daniela Salazar,Artes Visuales,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000364,Felipe Medina,Alimentos,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000365,Andrea Delgado,Nutricion y Dietetica,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000366,Isabella Guerrero,Biologia,Alimentos,PRESENCIAL,1,0,0,0,0
+1101000367,Maria Ortiz,Comunicacion,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000368,Paola Vargas,Geologia,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000369,Adriana Jimenez,Finanzas,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000370,Andrea Delgado,Administracion de Empresas,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000371,Andrea Morales,Comunicacion,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000372,Luis Martinez,Ingenieria Civil,Medicina,PRESENCIAL,0,0,0,0,0
+1101000373,Lorena Sanchez,Medicina,Economia,PRESENCIAL,0,0,0,0,0
+1101000374,Pablo Ibarra,Derecho,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000375,Juan Lopez,Ciencias Politicas y Rel. Internacionales,Ingenieria Civil,PRESENCIAL,0,0,1,58,0
+1101000376,Adriana Romero,Ingenieria en Sistemas Computacionales,Administracion de Empresas,PRESENCIAL,0,1,0,0,0
+1101000377,Jorge Ibarra,Ciencias Politicas y Rel. Internacionales,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000378,Fernanda Alvarez,Alimentos,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000379,Sofia Garcia,Bioquimica y Farmacia,Agropecuaria,PRESENCIAL,0,0,1,36,0
+1101000380,Javier Flores,Bioquimica y Farmacia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000381,Pedro Ramos,Enfermeria,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000382,Fernando Silva,Enfermeria,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000383,Pablo Garcia,Administracion de Empresas,Ingenieria Ambiental,PRESENCIAL,1,0,0,0,0
+1101000384,Lorena Alvarez,Bioquimica y Farmacia,Biologia,PRESENCIAL,0,0,0,0,0
+1101000385,Alejandro Fuentes,Biologia,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000386,Raul Gonzalez,Ciencias Politicas y Rel. Internacionales,Ingenieria Civil,PRESENCIAL,0,1,0,0,0
+1101000387,Luis Jimenez,Psicopedagogia,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000388,Ricardo Lopez,Pedagogia de los Idiomas Nac. y Ext.,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000389,Silvia Medina,Agropecuaria,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000390,Claudia Diaz,Ingenieria en Sistemas Computacionales,Economia,PRESENCIAL,0,1,0,0,0
+1101000391,Lorena Sanchez,Educacion Basica,Geologia,PRESENCIAL,0,1,1,45,0
+1101000392,David Guerrero,Ingenieria Civil,Finanzas,PRESENCIAL,0,1,0,0,0
+1101000393,Silvia Aguirre,Ciencias Politicas y Rel. Internacionales,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000394,Francisco Salazar,Ingenieria en Sistemas Computacionales,Biologia,PRESENCIAL,0,1,0,0,0
+1101000395,Elena Gonzalez,Educacion Basica,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000396,Andres Medina,Administracion de Empresas,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000397,Andres Romero,Finanzas,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000398,Daniela Soto,Psicopedagogia,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000399,Monica Jimenez,Arquitectura,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000400,Patricia Salazar,Psicologia Clinica,Biologia,PRESENCIAL,0,0,0,0,0
+1101000401,Ricardo Morales,Geologia,Biologia,PRESENCIAL,0,0,0,0,0
+1101000402,Antonio Castillo,Biologia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000403,Antonio Reyes,Psicologia,Comunicacion,PRESENCIAL,0,0,1,59,0
+1101000404,Lucia Cruz,Alimentos,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000405,Roberto Soto,Psicologia Clinica,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000406,Patricia Medina,Bioquimica y Farmacia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000407,Gabriel Castro,Comunicacion,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000408,Daniel Salazar,Pedagogia de los Idiomas Nac. y Ext.,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000409,Andres Ibarra,Enfermeria,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000410,Hector Jimenez,Ingenieria en Sistemas Computacionales,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000411,Sandra Ramos,Comunicacion,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000412,Lucia Cabrera,Artes Visuales,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000413,Felipe Castro,Bioquimica y Farmacia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000414,Paola Delgado,Ingenieria en Sistemas Computacionales,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000415,Raul Vega,Biologia,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000416,Paola Fernandez,Artes Escenicas,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000417,Camila Aguirre,Administracion de Empresas,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000418,Monica Morales,Administracion de Empresas,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000419,Jorge Vega,Psicologia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000420,Hector Rodriguez,Psicologia,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000421,Jorge Delgado,Nutricion y Dietetica,Marketing,PRESENCIAL,0,0,0,0,0
+1101000422,Ricardo Salazar,Geologia,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000423,Lucia Ibarra,Administracion de Empresas,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000424,Veronica Gonzalez,Artes Escenicas,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000425,Fernanda Sanchez,Ciencias Politicas y Rel. Internacionales,Geologia,PRESENCIAL,0,1,0,0,0
+1101000426,Camila Soto,Pedagogia de los Idiomas Nac. y Ext.,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000427,Silvia Flores,Derecho,Marketing,PRESENCIAL,0,0,0,0,0
+1101000428,Ana Ruiz,Medicina,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000429,Gabriel Soto,Agropecuaria,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000430,Andres Gonzalez,Psicologia,Medicina,PRESENCIAL,0,0,1,43,0
+1101000431,Daniel Diaz,Administracion de Empresas,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000432,Silvia Contreras,Nutricion y Dietetica,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000433,Fernanda Fuentes,Arquitectura,Ingenieria Civil,PRESENCIAL,1,0,0,0,0
+1101000434,Patricia Fernandez,Educacion Basica,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000435,Carlos Vega,Finanzas,Geologia,PRESENCIAL,0,1,0,0,0
+1101000436,Laura Castillo,Contabilidad y Auditoria,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000437,Claudia Romero,Administracion de Empresas,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000438,Ana Molina,Ingenieria Ambiental,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000439,Lorena Diaz,Marketing,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000440,Adriana Fernandez,Psicologia Clinica,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000441,Beatriz Ramirez,Artes Visuales,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000442,Hector Alvarez,Derecho,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000443,David Rodriguez,Pedagogia de los Idiomas Nac. y Ext.,Arquitectura,PRESENCIAL,0,1,0,0,0
+1101000444,Gabriela Guerrero,Alimentos,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,1,0,0,0
+1101000445,Raul Gonzalez,Educacion Basica,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000446,Daniel Alvarez,Contabilidad y Auditoria,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000447,Felipe Jimenez,Comunicacion,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000448,Adriana Martinez,Enfermeria,Psicologia Clinica,PRESENCIAL,0,0,1,41,0
+1101000449,David Delgado,Medicina,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000450,Beatriz Herrera,Administracion de Empresas,Marketing,PRESENCIAL,0,0,0,0,0
+1101000451,Pablo Flores,Enfermeria,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000452,Patricia Gonzalez,Artes Visuales,Nutricion y Dietetica,PRESENCIAL,1,0,0,0,0
+1101000453,Miguel Ramos,Artes Escenicas,Alimentos,PRESENCIAL,1,0,0,0,0
+1101000454,Patricia Ramirez,Derecho,Bioquimica y Farmacia,PRESENCIAL,0,1,0,0,0
+1101000455,Pedro Mendoza,Ingenieria Ambiental,Marketing,PRESENCIAL,0,0,0,0,0
+1101000456,Diego Sanchez,Bioquimica y Farmacia,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000457,Eduardo Cruz,Pedagogia de los Idiomas Nac. y Ext.,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000458,Isabella Gonzalez,Nutricion y Dietetica,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000459,Patricia Mendoza,Ingenieria en Sistemas Computacionales,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000460,Francisco Salazar,Educacion Basica,Psicopedagogia,PRESENCIAL,0,0,1,57,0
+1101000461,Natalia Cruz,Ciencias Politicas y Rel. Internacionales,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000462,Ana Castillo,Derecho,Geologia,PRESENCIAL,0,0,0,0,0
+1101000463,Carolina Perez,Ingenieria Ambiental,Biologia,PRESENCIAL,0,0,0,0,0
+1101000464,Fernanda Fuentes,Artes Escenicas,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000465,Maria Cabrera,Bioquimica y Farmacia,Medicina,PRESENCIAL,0,1,1,48,0
+1101000466,Gabriel Diaz,Pedagogia de los Idiomas Nac. y Ext.,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000467,Sofia Fuentes,Comunicacion,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,1,42,0
+1101000468,Valeria Fuentes,Biologia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000469,Beatriz Rodriguez,Marketing,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000470,Daniela Gonzalez,Agropecuaria,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000471,Sandra Morales,Nutricion y Dietetica,Medicina,PRESENCIAL,0,0,0,0,0
+1101000472,Eduardo Ramos,Ciencias Politicas y Rel. Internacionales,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000473,Sandra Silva,Educacion Basica,Nutricion y Dietetica,PRESENCIAL,0,1,0,0,0
+1101000474,Gabriela Ramos,Bioquimica y Farmacia,Marketing,PRESENCIAL,0,0,1,50,0
+1101000475,Gabriel Guerrero,Enfermeria,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000476,Elena Fernandez,Psicologia,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000477,Carlos Perez,Economia,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000478,Carlos Aguirre,Ingenieria en Sistemas Computacionales,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000479,Roberto Mendoza,Finanzas,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000480,Ana Morales,Economia,Arquitectura,PRESENCIAL,0,1,0,0,0
+1101000481,Lucia Diaz,Ingenieria Civil,Marketing,PRESENCIAL,0,0,1,42,0
+1101000482,Felipe Molina,Ingenieria en Sistemas Computacionales,Marketing,PRESENCIAL,0,0,0,0,0
+1101000483,Andrea Reyes,Educacion Basica,Comunicacion,PRESENCIAL,0,0,1,49,0
+1101000484,Maria Vargas,Comunicacion,Ingenieria Ambiental,PRESENCIAL,0,0,1,46,0
+1101000485,Juan Medina,Telecomunicaciones,Educacion Basica,PRESENCIAL,0,1,0,0,0
+1101000486,Daniela Castro,Derecho,Enfermeria,PRESENCIAL,0,1,0,0,0
+1101000487,Carlos Vargas,Telecomunicaciones,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000488,Sandra Gonzalez,Psicologia,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000489,Veronica Molina,Enfermeria,Alimentos,PRESENCIAL,0,1,0,0,0
+1101000490,Ricardo Alvarez,Artes Visuales,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000491,Luis Reyes,Psicologia Clinica,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,1,0,0,0
+1101000492,David Delgado,Biologia,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000493,David Herrera,Alimentos,Finanzas,PRESENCIAL,0,1,0,0,0
+1101000494,Natalia Salazar,Enfermeria,Economia,PRESENCIAL,0,0,0,0,0
+1101000495,Daniela Ruiz,Geologia,Comunicacion,PRESENCIAL,1,0,0,0,0
+1101000496,Camila Lopez,Geologia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000497,Pedro Ramirez,Nutricion y Dietetica,Medicina,PRESENCIAL,0,0,0,0,0
+1101000498,Jorge Alvarez,Ingenieria Ambiental,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000499,Sebastian Rodriguez,Medicina,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000500,Sofia Jimenez,Nutricion y Dietetica,Enfermeria,PRESENCIAL,0,1,0,0,0
+1101000501,Patricia Alvarez,Derecho,Medicina,PRESENCIAL,0,0,0,0,0
+1101000502,Camila Silva,Finanzas,Derecho,PRESENCIAL,0,1,0,0,0
+1101000503,Daniela Diaz,Derecho,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000504,Alejandro Ramirez,Agropecuaria,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000505,Daniel Lopez,Geologia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000506,Eduardo Molina,Ciencias Politicas y Rel. Internacionales,Biologia,PRESENCIAL,0,0,0,0,0
+1101000507,Miguel Lopez,Ingenieria en Sistemas Computacionales,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000508,Eduardo Cabrera,Economia,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000509,Sandra Martinez,Ingenieria Civil,Economia,PRESENCIAL,0,0,0,0,0
+1101000510,Camila Morales,Economia,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000511,Veronica Lopez,Artes Visuales,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000512,Jorge Soto,Comunicacion,Marketing,PRESENCIAL,0,1,1,55,0
+1101000513,Miguel Lopez,Ciencias Politicas y Rel. Internacionales,Derecho,PRESENCIAL,1,0,0,0,0
+1101000514,Diego Jimenez,Artes Visuales,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000515,Maria Sanchez,Psicologia,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000516,Fernanda Rodriguez,Ingenieria Ambiental,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000517,Natalia Mendoza,Psicologia Clinica,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000518,Andrea Mendoza,Administracion de Empresas,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000519,Eduardo Vargas,Artes Escenicas,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000520,Felipe Ramirez,Administracion de Empresas,Ingenieria Civil,PRESENCIAL,1,0,0,0,0
+1101000521,Elena Molina,Enfermeria,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000522,Miguel Molina,Nutricion y Dietetica,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000523,Ricardo Flores,Pedagogia de los Idiomas Nac. y Ext.,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000524,Paola Vega,Medicina,Marketing,PRESENCIAL,0,0,0,0,0
+1101000525,Pedro Perez,Enfermeria,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000526,Roberto Soto,Geologia,Ingenieria Ambiental,PRESENCIAL,0,1,0,0,0
+1101000527,Antonio Vargas,Administracion de Empresas,Derecho,PRESENCIAL,0,0,0,0,0
+1101000528,Ricardo Ortiz,Nutricion y Dietetica,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000529,Luis Aguirre,Bioquimica y Farmacia,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000530,Maria Romero,Pedagogia de los Idiomas Nac. y Ext.,Administracion de Empresas,PRESENCIAL,0,0,1,46,0
+1101000531,Isabella Reyes,Agropecuaria,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000532,Pablo Diaz,Marketing,Economia,PRESENCIAL,0,0,0,0,0
+1101000533,Andrea Sanchez,Enfermeria,Geologia,PRESENCIAL,1,1,0,0,0
+1101000534,Manuel Salazar,Derecho,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000535,Sofia Rios,Telecomunicaciones,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000536,Pablo Ortiz,Bioquimica y Farmacia,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000537,Fernanda Morales,Alimentos,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000538,Gabriela Molina,Enfermeria,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000539,Eduardo Fuentes,Agropecuaria,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000540,Carolina Castro,Comunicacion,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000541,Fernando Herrera,Bioquimica y Farmacia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000542,Carolina Molina,Artes Escenicas,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000543,Andres Cruz,Ingenieria en Sistemas Computacionales,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000544,Patricia Reyes,Arquitectura,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000545,Raul Rodriguez,Bioquimica y Farmacia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000546,Carolina Delgado,Telecomunicaciones,Medicina,PRESENCIAL,0,0,0,0,0
+1101000547,Roberto Torres,Agropecuaria,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000548,Pedro Fernandez,Psicologia,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000549,Eduardo Castro,Finanzas,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000550,Camila Silva,Geologia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000551,Monica Jimenez,Artes Visuales,Economia,PRESENCIAL,1,0,0,0,0
+1101000552,Fernanda Lopez,Biologia,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000553,Javier Fernandez,Telecomunicaciones,Economia,PRESENCIAL,0,0,0,0,0
+1101000554,Ricardo Silva,Educacion Basica,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000555,Roberto Soto,Ingenieria Civil,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000556,Andres Rodriguez,Marketing,Educacion Basica,PRESENCIAL,0,1,0,0,0
+1101000557,Antonio Lopez,Administracion de Empresas,Economia,PRESENCIAL,0,0,1,37,0
+1101000558,Lucia Martinez,Ingenieria Ambiental,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000559,Monica Torres,Artes Escenicas,Medicina,PRESENCIAL,0,0,0,0,0
+1101000560,Fernando Cabrera,Comunicacion,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000561,Javier Gonzalez,Marketing,Medicina,PRESENCIAL,0,0,0,0,0
+1101000562,Isabella Vargas,Pedagogia de los Idiomas Nac. y Ext.,Economia,PRESENCIAL,0,0,0,0,0
+1101000563,Maria Perez,Derecho,Psicologia Clinica,PRESENCIAL,0,0,1,44,0
+1101000564,Francisco Herrera,Artes Visuales,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000565,Eduardo Delgado,Finanzas,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000566,Monica Cabrera,Nutricion y Dietetica,Medicina,PRESENCIAL,0,0,0,0,0
+1101000567,Fernanda Aguirre,Pedagogia de los Idiomas Nac. y Ext.,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000568,Luis Jimenez,Finanzas,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000569,Beatriz Herrera,Contabilidad y Auditoria,Psicologia Clinica,PRESENCIAL,0,0,1,55,0
+1101000570,Monica Mendoza,Artes Escenicas,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000571,Sebastian Castro,Geologia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000572,Jorge Jimenez,Educacion Basica,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000573,Pablo Ruiz,Ciencias Politicas y Rel. Internacionales,Marketing,PRESENCIAL,0,0,0,0,0
+1101000574,Camila Diaz,Nutricion y Dietetica,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000575,Hector Morales,Artes Escenicas,Biologia,PRESENCIAL,0,0,0,0,0
+1101000576,Natalia Castro,Ingenieria en Sistemas Computacionales,Biologia,PRESENCIAL,0,0,0,0,0
+1101000577,Laura Rios,Enfermeria,Artes Escenicas,PRESENCIAL,0,0,1,42,0
+1101000578,Gabriel Torres,Telecomunicaciones,Artes Escenicas,PRESENCIAL,0,0,1,40,0
+1101000579,Diego Reyes,Biologia,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000580,Valeria Mendoza,Telecomunicaciones,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000581,Camila Mendoza,Pedagogia de los Idiomas Nac. y Ext.,Enfermeria,PRESENCIAL,1,0,0,0,0
+1101000582,Andres Molina,Ingenieria Civil,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000583,Claudia Romero,Pedagogia de los Idiomas Nac. y Ext.,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000584,Carlos Fuentes,Contabilidad y Auditoria,Ingenieria Civil,PRESENCIAL,0,1,0,0,0
+1101000585,Carolina Reyes,Medicina,Artes Visuales,PRESENCIAL,1,0,0,0,0
+1101000586,Eduardo Herrera,Psicologia Clinica,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000587,Carlos Herrera,Marketing,Derecho,PRESENCIAL,0,0,0,0,0
+1101000588,Adriana Ramirez,Biologia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000589,Monica Lopez,Economia,Finanzas,PRESENCIAL,0,1,0,0,0
+1101000590,Veronica Contreras,Administracion de Empresas,Nutricion y Dietetica,PRESENCIAL,0,0,1,56,0
+1101000591,Sebastian Fuentes,Psicopedagogia,Enfermeria,PRESENCIAL,0,1,0,0,0
+1101000592,Maria Martinez,Artes Visuales,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000593,Fernando Sanchez,Contabilidad y Auditoria,Educacion Basica,PRESENCIAL,0,1,0,0,0
+1101000594,Pedro Ramos,Finanzas,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000595,Pedro Contreras,Educacion Basica,Psicopedagogia,PRESENCIAL,0,1,0,0,0
+1101000596,Jorge Salazar,Contabilidad y Auditoria,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000597,Lorena Castro,Marketing,Administracion de Empresas,PRESENCIAL,1,0,0,0,0
+1101000598,Fernando Jimenez,Economia,Medicina,PRESENCIAL,1,1,0,0,0
+1101000599,Antonio Soto,Psicologia Clinica,Bioquimica y Farmacia,PRESENCIAL,0,1,0,0,0
+1101000600,Sebastian Vargas,Alimentos,Marketing,PRESENCIAL,0,1,0,0,0
+1101000601,Carlos Diaz,Ingenieria Ambiental,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000602,Hector Garcia,Medicina,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000603,David Ibarra,Finanzas,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000604,Monica Alvarez,Alimentos,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000605,Roberto Flores,Nutricion y Dietetica,Administracion de Empresas,PRESENCIAL,0,1,0,0,0
+1101000606,Andres Fernandez,Agropecuaria,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000607,Claudia Medina,Ingenieria Civil,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000608,Raul Ramirez,Derecho,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,1,44,0
+1101000609,Beatriz Mendoza,Medicina,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000610,Raul Molina,Economia,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000611,Claudia Fernandez,Agropecuaria,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000612,Beatriz Medina,Psicologia Clinica,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000613,Juan Flores,Ciencias Politicas y Rel. Internacionales,Derecho,PRESENCIAL,0,0,1,51,0
+1101000614,Ricardo Castillo,Biologia,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000615,Monica Castillo,Bioquimica y Farmacia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000616,Andrea Vega,Biologia,Nutricion y Dietetica,PRESENCIAL,0,0,1,48,0
+1101000617,Roberto Garcia,Comunicacion,Psicologia,PRESENCIAL,1,1,0,0,0
+1101000618,Claudia Herrera,Ciencias Politicas y Rel. Internacionales,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000619,Fernanda Martinez,Arquitectura,Economia,PRESENCIAL,0,0,0,0,0
+1101000620,Francisco Rios,Artes Visuales,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000621,Pablo Vargas,Medicina,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000622,Silvia Ramos,Ingenieria Ambiental,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000623,Lorena Castro,Nutricion y Dietetica,Marketing,PRESENCIAL,0,0,0,0,0
+1101000624,Monica Cruz,Alimentos,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000625,Roberto Garcia,Pedagogia de los Idiomas Nac. y Ext.,Telecomunicaciones,PRESENCIAL,0,1,0,0,0
+1101000626,Lucia Cabrera,Ciencias Politicas y Rel. Internacionales,Psicologia Clinica,PRESENCIAL,0,1,0,0,0
+1101000627,Silvia Romero,Arquitectura,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000628,Camila Cabrera,Administracion de Empresas,Ingenieria Civil,PRESENCIAL,0,1,0,0,0
+1101000629,Francisco Mendoza,Ciencias Politicas y Rel. Internacionales,Geologia,PRESENCIAL,0,0,0,0,0
+1101000630,Daniela Silva,Geologia,Biologia,PRESENCIAL,0,0,0,0,0
+1101000631,Roberto Salazar,Artes Visuales,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000632,Ricardo Aguirre,Pedagogia de los Idiomas Nac. y Ext.,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000633,Eduardo Ramirez,Artes Visuales,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000634,Manuel Mendoza,Artes Visuales,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000635,Pablo Castro,Artes Escenicas,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000636,Patricia Perez,Ciencias Politicas y Rel. Internacionales,Nutricion y Dietetica,PRESENCIAL,1,1,0,0,0
+1101000637,Jorge Silva,Ingenieria Civil,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000638,Ana Diaz,Contabilidad y Auditoria,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000639,Claudia Aguirre,Telecomunicaciones,Economia,PRESENCIAL,0,0,0,0,0
+1101000640,Javier Diaz,Artes Visuales,Artes Escenicas,PRESENCIAL,1,0,0,0,0
+1101000641,Adriana Mendoza,Comunicacion,Enfermeria,PRESENCIAL,1,0,0,0,0
+1101000642,Elena Vega,Arquitectura,Economia,PRESENCIAL,0,0,0,0,0
+1101000643,Hector Cabrera,Comunicacion,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000644,Felipe Vega,Administracion de Empresas,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000645,Laura Medina,Enfermeria,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000646,Sebastian Perez,Biologia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000647,Ricardo Salazar,Enfermeria,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000648,Andrea Molina,Comunicacion,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000649,Camila Ramos,Bioquimica y Farmacia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000650,Sofia Ruiz,Economia,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000651,Hector Ibarra,Ciencias Politicas y Rel. Internacionales,Derecho,PRESENCIAL,0,0,0,0,0
+1101000652,Juan Torres,Artes Escenicas,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000653,Claudia Castillo,Enfermeria,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000654,Laura Medina,Finanzas,Psicologia,PRESENCIAL,0,1,0,0,0
+1101000655,Elena Guerrero,Ciencias Politicas y Rel. Internacionales,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000656,Beatriz Reyes,Biologia,Comunicacion,PRESENCIAL,0,1,0,0,0
+1101000657,Elena Fuentes,Comunicacion,Medicina,PRESENCIAL,0,0,0,0,0
+1101000658,Isabella Romero,Arquitectura,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000659,Sandra Romero,Pedagogia de los Idiomas Nac. y Ext.,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000660,Lucia Jimenez,Enfermeria,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000661,Luis Molina,Arquitectura,Economia,PRESENCIAL,0,0,0,0,0
+1101000662,Monica Romero,Biologia,Medicina,PRESENCIAL,0,1,1,59,0
+1101000663,Claudia Rodriguez,Ingenieria Civil,Educacion Basica,PRESENCIAL,0,0,1,52,0
+1101000664,Pedro Diaz,Ingenieria en Sistemas Computacionales,Artes Escenicas,PRESENCIAL,0,1,0,0,0
+1101000665,David Medina,Geologia,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000666,Diego Alvarez,Ingenieria en Sistemas Computacionales,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000667,Natalia Guerrero,Medicina,Psicologia,PRESENCIAL,0,1,1,54,0
+1101000668,Francisco Alvarez,Comunicacion,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000669,Raul Ruiz,Contabilidad y Auditoria,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000670,Camila Vargas,Psicopedagogia,Telecomunicaciones,PRESENCIAL,0,1,0,0,0
+1101000671,Antonio Martinez,Telecomunicaciones,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000672,Silvia Rodriguez,Marketing,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000673,Andrea Jimenez,Ingenieria Ambiental,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000674,Luis Reyes,Biologia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000675,Veronica Sanchez,Psicologia,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000676,Juan Mendoza,Economia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000677,Fernanda Ramirez,Artes Escenicas,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000678,Elena Herrera,Derecho,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000679,Gabriela Ramirez,Comunicacion,Contabilidad y Auditoria,PRESENCIAL,0,0,1,38,0
+1101000680,Maria Contreras,Pedagogia de los Idiomas Nac. y Ext.,Medicina,PRESENCIAL,0,0,0,0,0
+1101000681,Isabella Garcia,Comunicacion,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000682,Elena Sanchez,Ingenieria Ambiental,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000683,Felipe Ramirez,Alimentos,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000684,Pablo Castillo,Telecomunicaciones,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000685,Diego Vega,Administracion de Empresas,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000686,Valeria Rios,Ingenieria Ambiental,Enfermeria,PRESENCIAL,0,0,1,47,0
+1101000687,Miguel Garcia,Artes Escenicas,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000688,Lucia Garcia,Enfermeria,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000689,Gabriela Ortiz,Psicologia,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000690,Veronica Rodriguez,Ciencias Politicas y Rel. Internacionales,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000691,Eduardo Ruiz,Derecho,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000692,Diego Vega,Administracion de Empresas,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000693,Camila Flores,Ingenieria Ambiental,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000694,Paola Torres,Derecho,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000695,Roberto Lopez,Economia,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000696,Gabriel Garcia,Psicologia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000697,Monica Salazar,Psicologia,Artes Escenicas,PRESENCIAL,1,0,0,0,0
+1101000698,Felipe Gonzalez,Contabilidad y Auditoria,Derecho,PRESENCIAL,0,0,0,0,0
+1101000699,Miguel Castro,Psicopedagogia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000700,Pablo Contreras,Finanzas,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000701,Veronica Rodriguez,Economia,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000702,Gabriel Castro,Arquitectura,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000703,Francisco Garcia,Ingenieria en Sistemas Computacionales,Comunicacion,PRESENCIAL,0,1,0,0,0
+1101000704,Diego Salazar,Comunicacion,Telecomunicaciones,PRESENCIAL,1,0,0,0,0
+1101000705,Patricia Ramos,Agropecuaria,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000706,Fernando Medina,Ingenieria Ambiental,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000707,Antonio Fernandez,Agropecuaria,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000708,Sofia Diaz,Psicopedagogia,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000709,Juan Molina,Ciencias Politicas y Rel. Internacionales,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000710,Ricardo Castro,Ingenieria Ambiental,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000711,Daniel Romero,Psicologia,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000712,Isabella Castro,Comunicacion,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000713,Fernando Ortiz,Marketing,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000714,Pablo Torres,Educacion Basica,Economia,PRESENCIAL,0,0,0,0,0
+1101000715,Isabella Contreras,Geologia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000716,Lorena Martinez,Administracion de Empresas,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000717,Valeria Rios,Psicopedagogia,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000718,Francisco Garcia,Educacion Basica,Geologia,PRESENCIAL,0,0,0,0,0
+1101000719,Felipe Salazar,Enfermeria,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000720,Jorge Ramos,Marketing,Contabilidad y Auditoria,PRESENCIAL,1,0,0,0,0
+1101000721,Miguel Ibarra,Administracion de Empresas,Artes Visuales,PRESENCIAL,1,0,1,41,0
+1101000722,Sofia Silva,Ingenieria Civil,Geologia,PRESENCIAL,0,0,0,0,0
+1101000723,Carolina Perez,Educacion Basica,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000724,Silvia Cabrera,Ingenieria Ambiental,Geologia,PRESENCIAL,0,0,0,0,0
+1101000725,Jorge Delgado,Geologia,Psicopedagogia,PRESENCIAL,1,0,0,0,0
+1101000726,Silvia Rodriguez,Ciencias Politicas y Rel. Internacionales,Marketing,PRESENCIAL,0,1,0,0,0
+1101000727,Sebastian Fuentes,Arquitectura,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000728,Antonio Rios,Ingenieria Civil,Economia,PRESENCIAL,0,0,0,0,0
+1101000729,Lucia Cabrera,Telecomunicaciones,Medicina,PRESENCIAL,0,0,0,0,0
+1101000730,Miguel Vargas,Ingenieria en Sistemas Computacionales,Biologia,PRESENCIAL,0,0,0,0,0
+1101000731,Javier Ortiz,Economia,Biologia,PRESENCIAL,0,0,0,0,0
+1101000732,Luis Aguirre,Administracion de Empresas,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000733,Camila Reyes,Derecho,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000734,Isabella Vargas,Contabilidad y Auditoria,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000735,Pedro Torres,Bioquimica y Farmacia,Artes Visuales,PRESENCIAL,0,0,1,53,0
+1101000736,Carlos Rios,Ingenieria Ambiental,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000737,Antonio Silva,Derecho,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000738,Miguel Molina,Psicologia Clinica,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000739,Carlos Contreras,Ingenieria Ambiental,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000740,Laura Ramos,Alimentos,Biologia,PRESENCIAL,0,1,0,0,0
+1101000741,Veronica Fernandez,Biologia,Geologia,PRESENCIAL,0,0,0,0,0
+1101000742,Daniela Silva,Derecho,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000743,Roberto Guerrero,Ingenieria Ambiental,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000744,Antonio Vargas,Arquitectura,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000745,Alejandro Reyes,Psicologia Clinica,Arquitectura,PRESENCIAL,0,1,0,0,0
+1101000746,Camila Castro,Derecho,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000747,Raul Mendoza,Ingenieria en Sistemas Computacionales,Derecho,PRESENCIAL,0,0,0,0,0
+1101000748,Monica Fernandez,Artes Visuales,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000749,Manuel Fernandez,Alimentos,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000750,Sebastian Ruiz,Medicina,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000751,Jorge Molina,Psicologia,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000752,Eduardo Mendoza,Artes Escenicas,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000753,Alejandro Ibarra,Marketing,Derecho,PRESENCIAL,0,1,0,0,0
+1101000754,Paola Castro,Pedagogia de los Idiomas Nac. y Ext.,Psicopedagogia,PRESENCIAL,0,0,1,41,0
+1101000755,Paola Vargas,Biologia,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000756,Monica Silva,Alimentos,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000757,David Castro,Administracion de Empresas,Contabilidad y Auditoria,PRESENCIAL,0,1,0,0,0
+1101000758,Sebastian Gonzalez,Contabilidad y Auditoria,Administracion de Empresas,PRESENCIAL,0,1,0,0,0
+1101000759,Fernando Aguirre,Enfermeria,Medicina,PRESENCIAL,0,0,0,0,0
+1101000760,Pedro Ortiz,Psicopedagogia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000761,Miguel Castillo,Educacion Basica,Marketing,PRESENCIAL,0,1,0,0,0
+1101000762,Andres Lopez,Enfermeria,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000763,Lucia Fuentes,Finanzas,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000764,Camila Cabrera,Psicopedagogia,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000765,Carolina Fuentes,Marketing,Geologia,PRESENCIAL,0,0,0,0,0
+1101000766,Natalia Guerrero,Agropecuaria,Finanzas,PRESENCIAL,0,1,0,0,0
+1101000767,Hector Ramirez,Ingenieria Ambiental,Marketing,PRESENCIAL,0,1,0,0,0
+1101000768,Hector Rios,Marketing,Medicina,PRESENCIAL,0,0,0,0,0
+1101000769,Juan Aguirre,Ingenieria Ambiental,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000770,Andres Medina,Arquitectura,Geologia,PRESENCIAL,0,1,0,0,0
+1101000771,Carolina Ibarra,Ingenieria en Sistemas Computacionales,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000772,Gabriela Castro,Contabilidad y Auditoria,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000773,Claudia Vega,Finanzas,Educacion Basica,PRESENCIAL,0,0,1,37,0
+1101000774,Daniel Lopez,Administracion de Empresas,Nutricion y Dietetica,PRESENCIAL,0,1,0,0,0
+1101000775,Juan Vargas,Bioquimica y Farmacia,Administracion de Empresas,PRESENCIAL,1,0,0,0,0
+1101000776,Andrea Guerrero,Alimentos,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000777,Valeria Martinez,Finanzas,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000778,Sebastian Medina,Arquitectura,Medicina,PRESENCIAL,0,0,0,0,0
+1101000779,Elena Vega,Economia,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000780,Pedro Ramos,Artes Escenicas,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000781,Ricardo Flores,Pedagogia de los Idiomas Nac. y Ext.,Ingenieria Civil,PRESENCIAL,1,0,0,0,0
+1101000782,Sebastian Rios,Pedagogia de los Idiomas Nac. y Ext.,Marketing,PRESENCIAL,0,0,0,0,0
+1101000783,Isabella Torres,Economia,Artes Escenicas,PRESENCIAL,0,1,0,0,0
+1101000784,Veronica Torres,Geologia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000785,Javier Rios,Artes Visuales,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000786,Andrea Gonzalez,Artes Escenicas,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000787,Ana Martinez,Ingenieria Ambiental,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000788,Andrea Vargas,Biologia,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000789,David Reyes,Medicina,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000790,Carlos Soto,Artes Visuales,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000791,Antonio Morales,Comunicacion,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000792,Francisco Aguirre,Administracion de Empresas,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000793,Daniel Guerrero,Alimentos,Medicina,PRESENCIAL,0,0,0,0,0
+1101000794,Maria Ibarra,Telecomunicaciones,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000795,Pablo Fuentes,Arquitectura,Geologia,PRESENCIAL,0,0,0,0,0
+1101000796,Valeria Ibarra,Marketing,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000797,Pablo Rodriguez,Enfermeria,Telecomunicaciones,PRESENCIAL,0,0,1,39,0
+1101000798,Andrea Reyes,Nutricion y Dietetica,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000799,Carolina Ibarra,Artes Visuales,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000800,Luis Perez,Contabilidad y Auditoria,Artes Escenicas,PRESENCIAL,0,0,1,56,0
+1101000801,Ana Guerrero,Comunicacion,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000802,Lorena Martinez,Arquitectura,Psicopedagogia,PRESENCIAL,0,1,1,45,0
+1101000803,Luis Cruz,Ciencias Politicas y Rel. Internacionales,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000804,Jorge Ramos,Artes Escenicas,Economia,PRESENCIAL,0,0,0,0,0
+1101000805,Silvia Castro,Educacion Basica,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000806,Javier Romero,Nutricion y Dietetica,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000807,Pablo Flores,Comunicacion,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000808,Ricardo Guerrero,Agropecuaria,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000809,Daniela Molina,Comunicacion,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000810,Fernanda Vega,Alimentos,Geologia,PRESENCIAL,1,1,0,0,0
+1101000811,Maria Ramos,Psicologia Clinica,Biologia,PRESENCIAL,1,0,0,0,0
+1101000812,Ricardo Lopez,Ingenieria Civil,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000813,Gabriel Aguirre,Psicologia,Psicopedagogia,PRESENCIAL,0,1,0,0,0
+1101000814,Diego Ortiz,Ingenieria Ambiental,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000815,Antonio Alvarez,Psicologia,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000816,Camila Soto,Arquitectura,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000817,Beatriz Herrera,Enfermeria,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000818,Elena Jimenez,Ingenieria Ambiental,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000819,Elena Vargas,Educacion Basica,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000820,Manuel Medina,Enfermeria,Biologia,PRESENCIAL,0,0,0,0,0
+1101000821,Ricardo Contreras,Artes Visuales,Economia,PRESENCIAL,0,0,0,0,0
+1101000822,David Salazar,Psicologia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000823,Valeria Ramirez,Biologia,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000824,Sebastian Gonzalez,Geologia,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000825,Fernando Aguirre,Contabilidad y Auditoria,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000826,Sandra Ramos,Economia,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000827,Antonio Gonzalez,Nutricion y Dietetica,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000828,Eduardo Salazar,Pedagogia de los Idiomas Nac. y Ext.,Medicina,PRESENCIAL,0,0,0,0,0
+1101000829,David Ibarra,Psicologia Clinica,Derecho,PRESENCIAL,1,0,0,0,0
+1101000830,Fernanda Sanchez,Ingenieria Civil,Educacion Basica,PRESENCIAL,0,1,1,55,0
+1101000831,Valeria Diaz,Medicina,Ingenieria Ambiental,PRESENCIAL,0,1,0,0,0
+1101000832,Maria Jimenez,Contabilidad y Auditoria,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000833,Sebastian Aguirre,Derecho,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000834,Maria Medina,Psicologia,Artes Visuales,PRESENCIAL,0,0,1,42,0
+1101000835,Javier Ibarra,Finanzas,Enfermeria,PRESENCIAL,0,0,1,57,0
+1101000836,Gabriela Guerrero,Telecomunicaciones,Nutricion y Dietetica,PRESENCIAL,1,0,0,0,0
+1101000837,Miguel Medina,Ciencias Politicas y Rel. Internacionales,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000838,Daniel Gonzalez,Administracion de Empresas,Economia,PRESENCIAL,0,0,0,0,0
+1101000839,Maria Garcia,Economia,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000840,Maria Ruiz,Artes Escenicas,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000841,Gabriel Silva,Ingenieria en Sistemas Computacionales,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000842,Maria Aguirre,Finanzas,Economia,PRESENCIAL,0,0,0,0,0
+1101000843,Sofia Medina,Ciencias Politicas y Rel. Internacionales,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000844,Daniela Molina,Psicologia Clinica,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000845,Daniel Ramirez,Contabilidad y Auditoria,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000846,Diego Herrera,Artes Visuales,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000847,Elena Sanchez,Pedagogia de los Idiomas Nac. y Ext.,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000848,Raul Torres,Administracion de Empresas,Ingenieria Ambiental,PRESENCIAL,0,1,1,46,0
+1101000849,Roberto Castro,Marketing,Derecho,PRESENCIAL,0,0,0,0,0
+1101000850,Sandra Silva,Psicologia Clinica,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,1,1,55,0
+1101000851,Claudia Silva,Psicopedagogia,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000852,Maria Ruiz,Bioquimica y Farmacia,Educacion Basica,PRESENCIAL,0,1,0,0,0
+1101000853,Fernando Guerrero,Administracion de Empresas,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000854,Carlos Castro,Ingenieria Civil,Medicina,PRESENCIAL,0,0,0,0,0
+1101000855,Pablo Reyes,Ingenieria Civil,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000856,Claudia Soto,Artes Visuales,Biologia,PRESENCIAL,0,0,0,0,0
+1101000857,Elena Garcia,Psicopedagogia,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000858,Sandra Molina,Psicopedagogia,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000859,Carolina Fernandez,Alimentos,Derecho,PRESENCIAL,0,1,0,0,0
+1101000860,Carolina Fuentes,Geologia,Ingenieria Civil,PRESENCIAL,1,0,0,0,0
+1101000861,Ana Reyes,Marketing,Derecho,PRESENCIAL,0,0,0,0,0
+1101000862,Lucia Flores,Agropecuaria,Marketing,PRESENCIAL,0,1,0,0,0
+1101000863,Valeria Delgado,Arquitectura,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000864,Elena Cabrera,Artes Visuales,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000865,Camila Delgado,Psicologia,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000866,Ricardo Flores,Artes Visuales,Ingenieria Civil,PRESENCIAL,0,1,0,0,0
+1101000867,Fernanda Gonzalez,Ciencias Politicas y Rel. Internacionales,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000868,Andres Medina,Comunicacion,Geologia,PRESENCIAL,1,0,0,0,0
+1101000869,Pablo Sanchez,Administracion de Empresas,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000870,Natalia Vega,Marketing,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000871,Juan Ibarra,Ingenieria Civil,Finanzas,PRESENCIAL,1,0,0,0,0
+1101000872,Juan Salazar,Derecho,Economia,PRESENCIAL,0,0,0,0,0
+1101000873,David Gonzalez,Psicopedagogia,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,1,0,0,0,0
+1101000874,Manuel Aguirre,Arquitectura,Telecomunicaciones,PRESENCIAL,0,0,1,47,0
+1101000875,Carlos Sanchez,Telecomunicaciones,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000876,Sofia Martinez,Nutricion y Dietetica,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000877,Pablo Salazar,Psicologia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000878,Fernanda Garcia,Bioquimica y Farmacia,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000879,Luis Romero,Arquitectura,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000880,Gabriela Jimenez,Ciencias Politicas y Rel. Internacionales,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000881,Pedro Molina,Educacion Basica,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,1,0,0,0
+1101000882,Francisco Diaz,Agropecuaria,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000883,Claudia Ruiz,Psicologia Clinica,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000884,Andrea Morales,Psicopedagogia,Economia,PRESENCIAL,0,0,1,36,0
+1101000885,Lucia Torres,Educacion Basica,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000886,Paola Ruiz,Comunicacion,Arquitectura,PRESENCIAL,0,1,0,0,0
+1101000887,Felipe Ortiz,Ingenieria en Sistemas Computacionales,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000888,Juan Torres,Artes Escenicas,Biologia,PRESENCIAL,0,0,0,0,0
+1101000889,Maria Morales,Contabilidad y Auditoria,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000890,Fernando Garcia,Pedagogia de los Idiomas Nac. y Ext.,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000891,Daniel Jimenez,Alimentos,Arquitectura,PRESENCIAL,0,0,1,52,0
+1101000892,Natalia Molina,Educacion Basica,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000893,Adriana Jimenez,Ingenieria en Sistemas Computacionales,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000894,Maria Jimenez,Geologia,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000895,Camila Salazar,Nutricion y Dietetica,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000896,Carlos Silva,Agropecuaria,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000897,Natalia Cruz,Ciencias Politicas y Rel. Internacionales,Marketing,PRESENCIAL,0,0,1,42,0
+1101000898,Sofia Vega,Ciencias Politicas y Rel. Internacionales,Medicina,PRESENCIAL,0,0,0,0,0
+1101000899,Paola Rios,Educacion Basica,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000900,Pedro Ramos,Artes Escenicas,Psicologia Clinica,PRESENCIAL,0,1,0,0,0
+1101000901,Carolina Torres,Medicina,Biologia,PRESENCIAL,0,0,0,0,0
+1101000902,Sofia Jimenez,Alimentos,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000903,Maria Molina,Ingenieria Civil,Marketing,PRESENCIAL,0,0,0,0,0
+1101000904,Felipe Silva,Comunicacion,Biologia,PRESENCIAL,0,0,0,0,0
+1101000905,Andres Silva,Nutricion y Dietetica,Medicina,PRESENCIAL,0,0,0,0,0
+1101000906,Daniel Ruiz,Comunicacion,Biologia,PRESENCIAL,0,0,0,0,0
+1101000907,Antonio Castillo,Administracion de Empresas,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000908,Ana Ramirez,Medicina,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,1,0,0,0
+1101000909,Sofia Romero,Geologia,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000910,Javier Vega,Psicopedagogia,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000911,Pablo Fuentes,Bioquimica y Farmacia,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000912,Javier Delgado,Nutricion y Dietetica,Derecho,PRESENCIAL,0,0,0,0,0
+1101000913,Fernando Vargas,Economia,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000914,Monica Morales,Artes Visuales,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000915,Andrea Lopez,Bioquimica y Farmacia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000916,Felipe Ruiz,Psicopedagogia,Psicologia,PRESENCIAL,0,1,0,0,0
+1101000917,Pedro Mendoza,Comunicacion,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000918,Veronica Castro,Economia,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000919,Luis Jimenez,Contabilidad y Auditoria,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000920,Antonio Jimenez,Comunicacion,Educacion Basica,PRESENCIAL,0,0,1,58,0
+1101000921,Antonio Soto,Nutricion y Dietetica,Psicopedagogia,PRESENCIAL,0,0,0,0,0
+1101000922,David Morales,Marketing,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000923,Elena Medina,Biologia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,1,0,0,0
+1101000924,Diego Cabrera,Ingenieria Civil,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000925,David Fuentes,Marketing,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000926,Ricardo Herrera,Psicologia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000927,Patricia Ruiz,Bioquimica y Farmacia,Psicopedagogia,PRESENCIAL,1,0,0,0,0
+1101000928,Diego Diaz,Enfermeria,Geologia,PRESENCIAL,0,0,1,53,0
+1101000929,Eduardo Torres,Telecomunicaciones,Marketing,PRESENCIAL,0,0,0,0,0
+1101000930,Monica Mendoza,Artes Visuales,Geologia,PRESENCIAL,0,0,0,0,0
+1101000931,Camila Rios,Psicologia Clinica,Economia,PRESENCIAL,0,0,0,0,0
+1101000932,Roberto Sanchez,Marketing,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000933,Valeria Soto,Artes Escenicas,Agropecuaria,PRESENCIAL,0,1,0,0,0
+1101000934,Roberto Delgado,Ingenieria en Sistemas Computacionales,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000935,Gabriel Romero,Comunicacion,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000936,Francisco Perez,Psicologia,Derecho,PRESENCIAL,0,0,0,0,0
+1101000937,Roberto Fuentes,Psicologia,Ingenieria Ambiental,PRESENCIAL,1,1,0,0,0
+1101000938,Fernanda Torres,Psicologia,Derecho,PRESENCIAL,0,1,0,0,0
+1101000939,Carolina Silva,Alimentos,Comunicacion,PRESENCIAL,0,0,0,0,0
+1101000940,Fernando Rodriguez,Artes Escenicas,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000941,Paola Fuentes,Ingenieria Civil,Medicina,PRESENCIAL,0,0,0,0,0
+1101000942,Raul Jimenez,Agropecuaria,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000943,Carlos Salazar,Educacion Basica,Marketing,PRESENCIAL,0,0,1,51,0
+1101000944,Veronica Flores,Psicologia,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000945,Maria Diaz,Derecho,Bioquimica y Farmacia,PRESENCIAL,0,1,0,0,0
+1101000946,Sebastian Ramirez,Psicopedagogia,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000947,Francisco Morales,Psicologia,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000948,Sebastian Castillo,Derecho,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000949,Sofia Sanchez,Psicopedagogia,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000950,Elena Medina,Economia,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000951,Raul Ruiz,Enfermeria,Artes Escenicas,PRESENCIAL,0,0,1,50,0
+1101000952,Monica Rios,Marketing,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000953,Alejandro Medina,Derecho,Finanzas,PRESENCIAL,0,0,1,50,0
+1101000954,Alejandro Mendoza,Ciencias Politicas y Rel. Internacionales,Artes Visuales,PRESENCIAL,0,1,0,0,0
+1101000955,Eduardo Romero,Psicopedagogia,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000956,Pedro Ortiz,Pedagogia de los Idiomas Nac. y Ext.,Psicologia,PRESENCIAL,0,0,0,0,0
+1101000957,Raul Cabrera,Ingenieria Civil,Contabilidad y Auditoria,PRESENCIAL,0,0,0,0,0
+1101000958,Ricardo Aguirre,Medicina,Artes Visuales,PRESENCIAL,1,1,0,0,0
+1101000959,Carolina Fernandez,Artes Escenicas,Alimentos,PRESENCIAL,0,0,0,0,0
+1101000960,Carlos Lopez,Psicopedagogia,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0
+1101000961,Isabella Salazar,Pedagogia de los Idiomas Nac. y Ext.,Nutricion y Dietetica,PRESENCIAL,0,1,0,0,0
+1101000962,Diego Medina,Artes Escenicas,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000963,Laura Morales,Finanzas,Biologia,PRESENCIAL,0,0,0,0,0
+1101000964,Gabriela Romero,Artes Visuales,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000965,Luis Silva,Ingenieria Civil,Enfermeria,PRESENCIAL,0,0,1,44,0
+1101000966,Camila Vega,Bioquimica y Farmacia,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000967,Beatriz Soto,Nutricion y Dietetica,Administracion de Empresas,PRESENCIAL,0,0,0,0,0
+1101000968,Pedro Vega,Artes Visuales,Finanzas,PRESENCIAL,0,1,0,0,0
+1101000969,Sebastian Vega,Medicina,Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,0,0,0,0
+1101000970,Pablo Medina,Finanzas,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000971,Gabriel Soto,Derecho,Agropecuaria,PRESENCIAL,0,0,0,0,0
+1101000972,Luis Fuentes,Economia,Medicina,PRESENCIAL,0,0,0,0,0
+1101000973,Laura Molina,Comunicacion,Ingenieria Ambiental,PRESENCIAL,0,0,1,56,0
+1101000974,Sofia Guerrero,Comunicacion,Biologia,PRESENCIAL,0,0,0,0,0
+1101000975,Beatriz Reyes,Administracion de Empresas,Psicologia,PRESENCIAL,1,0,0,0,0
+1101000976,Javier Medina,Nutricion y Dietetica,Artes Escenicas,PRESENCIAL,0,0,0,0,0
+1101000977,David Reyes,Psicologia Clinica,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000978,Andrea Medina,Bioquimica y Farmacia,Arquitectura,PRESENCIAL,0,0,0,0,0
+1101000979,David Lopez,Enfermeria,Ingenieria Ambiental,PRESENCIAL,0,0,1,39,0
+1101000980,Isabella Ramos,Alimentos,Artes Visuales,PRESENCIAL,0,0,0,0,0
+1101000981,Miguel Rodriguez,Enfermeria,Ingenieria Civil,PRESENCIAL,0,0,0,0,0
+1101000982,Claudia Garcia,Economia,Educacion Basica,PRESENCIAL,0,1,0,0,0
+1101000983,Natalia Fernandez,Alimentos,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000984,Pedro Torres,Derecho,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000985,Patricia Jimenez,Ingenieria en Sistemas Computacionales,Telecomunicaciones,PRESENCIAL,0,0,0,0,0
+1101000986,Adriana Molina,Comunicacion,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000987,Carlos Cabrera,Administracion de Empresas,Ingenieria Ambiental,PRESENCIAL,0,0,0,0,0
+1101000988,Andres Guerrero,Comunicacion,Administracion de Empresas,PRESENCIAL,0,0,1,39,0
+1101000989,Manuel Ibarra,Geologia,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,0,0,0
+1101000990,Juan Morales,Bioquimica y Farmacia,Educacion Basica,PRESENCIAL,0,0,0,0,0
+1101000991,Elena Rios,Artes Visuales,Psicologia Clinica,PRESENCIAL,0,0,0,0,0
+1101000992,Roberto Castillo,Administracion de Empresas,Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,0,0,0,0,0
+1101000993,Claudia Gonzalez,Pedagogia de los Idiomas Nac. y Ext.,Telecomunicaciones,PRESENCIAL,0,0,1,43,0
+1101000994,Jorge Torres,Ciencias Politicas y Rel. Internacionales,Nutricion y Dietetica,PRESENCIAL,0,0,0,0,0
+1101000995,Gabriel Vargas,Alimentos,Ingenieria en Sistemas Computacionales,PRESENCIAL,0,0,1,39,0
+1101000996,Valeria Rios,Derecho,Administracion de Empresas,PRESENCIAL,0,0,1,47,0
+1101000997,Felipe Cruz,Agropecuaria,Finanzas,PRESENCIAL,0,0,0,0,0
+1101000998,Carlos Fernandez,Educacion Basica,Enfermeria,PRESENCIAL,0,0,0,0,0
+1101000999,Andrea Contreras,Nutricion y Dietetica,Bioquimica y Farmacia,PRESENCIAL,0,0,0,0,0

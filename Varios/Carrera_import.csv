@@ -1,0 +1,29 @@
+nombre,modalidad,puntajeMinimo,limiteNivelacion,cuposDisponibles,cuposTomados
+Medicina,PRESENCIAL,70,0,50,0
+Enfermeria,PRESENCIAL,65,0,40,0
+Bioquimica y Farmacia,PRESENCIAL,65,0,45,0
+Nutricion y Dietetica,PRESENCIAL,63,0,40,0
+Psicologia Clinica,PRESENCIAL,60,0,45,0
+Administracion de Empresas,PRESENCIAL,0,55,60,0
+Contabilidad y Auditoria,PRESENCIAL,0,55,55,0
+Economia,PRESENCIAL,0,55,40,0
+Finanzas,PRESENCIAL,0,55,40,0
+Marketing,PRESENCIAL,0,55,45,0
+Biologia,PRESENCIAL,60,0,40,0
+Ingenieria Ambiental,PRESENCIAL,58,0,40,0
+Geologia,PRESENCIAL,58,0,35,0
+Agropecuaria,PRESENCIAL,0,50,40,0
+Alimentos,PRESENCIAL,58,0,40,0
+Derecho,PRESENCIAL,0,55,70,0
+Ciencias Politicas y Rel. Internacionales,PRESENCIAL,0,55,35,0
+Comunicacion,PRESENCIAL,0,50,45,0
+Psicologia,PRESENCIAL,60,0,50,0
+Psicopedagogia,PRESENCIAL,0,50,40,0
+Pedagogia de los Idiomas Nac. y Ext.,PRESENCIAL,55,0,40,0
+Artes Escenicas,PRESENCIAL,0,45,30,0
+Artes Visuales,PRESENCIAL,0,45,30,0
+Educacion Basica,PRESENCIAL,0,50,40,0
+Ingenieria Civil,PRESENCIAL,62,0,55,0
+Ingenieria en Sistemas Computacionales,PRESENCIAL,60,0,50,0
+Arquitectura,PRESENCIAL,60,0,45,0
+Telecomunicaciones,PRESENCIAL,58,0,40,0

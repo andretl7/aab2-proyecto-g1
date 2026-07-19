@@ -8,19 +8,15 @@ public class Examen_Diagnostico extends Examen {
 
     @Override
     public String evaluar(double puntajeConMeritos) {
+        setPuntajeFinal(puntajeConMeritos);
         Carrera_Presencial carr = (Carrera_Presencial) getCarrera();
 
-        
         if (!carr.hayCupoDisponible()) {
             setEstado("RECHAZADO SIN CUPOS DISPONIBLES");
             return getEstado();
         }
         carr.tomarCupo();
-        if (puntajeConMeritos >= carr.getLimiteNivelacion()) {
-            setEstado("ADMITIDO");
-        } else {
-            setEstado("NIVELACION");
-        }
+        setEstado(puntajeConMeritos >= carr.getLimiteNivelacion() ? "ADMITIDO" : "NIVELACION");
         return getEstado();
     }
 }

@@ -1,5 +1,7 @@
 package Model;
 
+import java.util.ArrayList;
+
 public class Postulante_Online extends Postulante {
     private boolean esBachiller;
     private String estadoOpc1;
@@ -28,6 +30,11 @@ public class Postulante_Online extends Postulante {
     @Override
     public String getEstadoOpc2() {
         return estadoOpc2;
+    }
+
+    @Override
+    public ArrayList<Examen> getExamenesPendientesDeCupo() {
+        return new ArrayList<>(); // Virtual nunca compite por ranking, no tiene Examen
     }
 
     @Override

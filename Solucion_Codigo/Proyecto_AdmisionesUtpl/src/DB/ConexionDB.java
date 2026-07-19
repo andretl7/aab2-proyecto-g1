@@ -21,7 +21,6 @@ public class ConexionDB {
         return conexion;
     }
 
-   
     public void inicializarBaseDatos() {
         String sqlCarrera =
             "CREATE TABLE IF NOT EXISTS Carrera (" +
@@ -102,6 +101,16 @@ public class ConexionDB {
             }
         } catch (SQLException e) {
             System.out.println("Error al cerrar la conexion: " + e.getMessage());
+        }
+    }
+
+    public void limpiarDatosAnteriores() {
+        try (Statement stmt = getConexion().createStatement()) {
+            stmt.execute("DELETE FROM IndicadorMerito");
+            stmt.execute("DELETE FROM Resultados");
+            stmt.execute("UPDATE Carrera SET cuposTomados = 0");
+        } catch (SQLException e) {
+            throw new RuntimeException("Error al limpiar datos anteriores: " + e.getMessage());
         }
     }
 }

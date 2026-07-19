@@ -32,6 +32,8 @@ public abstract class Postulante {
     public abstract String getEstadoOpc1();
     public abstract String getEstadoOpc2();
 
+    public abstract ArrayList<Examen> getExamenesPendientesDeCupo();
+
     public int sumaMeritos() {
         int suma = 0;
         for (IndicadorMerito m : meritos) {

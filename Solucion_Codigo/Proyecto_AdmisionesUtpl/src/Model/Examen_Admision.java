@@ -8,18 +8,14 @@ public class Examen_Admision extends Examen {
 
     @Override
     public String evaluar(double puntajeConMeritos) {
+        setPuntajeFinal(puntajeConMeritos);
         Carrera_Presencial carr = (Carrera_Presencial) getCarrera();
 
         if (puntajeConMeritos < carr.getPuntajeMinimo()) {
             setEstado("RECHAZADO POR PUNTAJE");
-            return getEstado();
+        } else {
+            setEstado("PENDIENTE_CUPO");
         }
-        if (!carr.hayCupoDisponible()) {
-            setEstado("RECHAZADO SIN CUPOS DISPONIBLES");
-            return getEstado();
-        }
-        carr.tomarCupo();
-        setEstado("ADMITIDO");
         return getEstado();
     }
 }

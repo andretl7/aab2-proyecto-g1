@@ -8,34 +8,31 @@ import java.sql.Connection;
 public class EjecutorAdmisionUtpl {
     public static void main(String[] args) {
 
-        // CONFIGURAR BASE DE DATOS
         ConexionDB conexionBD = new ConexionDB();
         conexionBD.inicializarBaseDatos();
+        conexionBD.limpiarDatosAnteriores();
         Connection conexion = conexionBD.getConexion();
 
-        // CREAR DAOs
         CarreraDAO carreraDAO = new CarreraDAO(conexion);
         PostulanteDAO postulanteDAO = new PostulanteDAO(conexion);
         ExamenDAO examenDAO = new ExamenDAO(conexion);
 
-        // LEER DATOS (orden obligatorio: Carrera y Postulante antes que Examen)
         carreraDAO.leerCarreras();
         postulanteDAO.leerPostulantes();
         examenDAO.cargarExamenes(postulanteDAO, carreraDAO);
 
-        // ASIGNAR MERITOS
         PostulanteController postulanteController = new PostulanteController(postulanteDAO);
         postulanteController.asignarMeritos();
 
-        // PROCESAR ADMISIONES (presenciales y virtuales, mismo metodo)
+        ResultadosDB resultadoDB = new ResultadosDB(conexion);
+        resultadoDB.guardarMeritos(postulanteDAO.getPostulantes());
+
         ExamenController examenController = new ExamenController(postulanteDAO, carreraDAO);
         examenController.procesarAdmisiones();
 
-        // GUARDAR RESULTADOS DETALLADOS EN LA BASE DE DATOS
-        ResultadosDB resultadoDAO = new ResultadosDB(conexion);
-        resultadoDAO.guardarResultados(postulanteDAO.getPostulantes());
+       
+        resultadoDB.guardarResultados(postulanteDAO.getPostulantes());
 
-        // REPORTES
         ReporteController reporteController = new ReporteController(postulanteDAO, carreraDAO);
 
         System.out.println("=== CARRERAS BAJO 50% DE CAPACIDAD ===");
@@ -54,7 +51,6 @@ public class EjecutorAdmisionUtpl {
         System.out.println("Rechazados: " + stats[1]);
         System.out.println("Nivelacion: " + stats[2]);
 
-        // CERRAR CONEXION
         conexionBD.cerrarConexion();
     }
 }
