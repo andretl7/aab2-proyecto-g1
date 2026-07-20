@@ -15,4 +15,10 @@ public class Carrera_Online extends Carrera {
     public boolean tieneCapacidadLimitada() {
         return false;
     }
+    
+    //Devuelve virtual
+    @Override
+    public String getModalidad() {
+        return "VIRTUAL";
+    }
 }

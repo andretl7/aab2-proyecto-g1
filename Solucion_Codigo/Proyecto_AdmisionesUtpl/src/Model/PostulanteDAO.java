@@ -21,6 +21,7 @@ public class PostulanteDAO {
 
     
     public ArrayList<Postulante> leerPostulantes() {
+        postulantes.clear();  
         String sql = "SELECT * FROM Postulante";
         try (PreparedStatement ps = conexion.prepareStatement(sql);
              ResultSet rs = ps.executeQuery()) {
@@ -50,7 +51,8 @@ public class PostulanteDAO {
                         rs.getInt("esAbanderado") == 1,
                         rs.getInt("bachilleratoAfin") == 1,
                         rs.getInt("capacidadEspecial") == 1,
-                        rs.getInt("porcentajeCapacidadEspecial")
+                        rs.getInt("porcentajeCapacidadEspecial"),
+                        rs.getInt("esBachiller") == 1
                     );
                 }
                 postulantes.add(post);

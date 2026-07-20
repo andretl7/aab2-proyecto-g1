@@ -27,4 +27,10 @@ public class Carrera_Presencial extends Carrera {
     public int getLimiteNivelacion() {
         return limiteNivelacion;
     }
+    
+    //Devuelve presencial
+    @Override
+    public String getModalidad() {
+        return "PRESENCIAL";
+    }
 }

@@ -3,7 +3,6 @@ package Model;
 import java.util.ArrayList;
 
 public class Postulante_Online extends Postulante {
-    private boolean esBachiller;
     private String estadoOpc1;
     private String estadoOpc2;
 
@@ -12,14 +11,9 @@ public class Postulante_Online extends Postulante {
                               boolean capacidadEspecial, int porcentajeCapacidadEspecial,
                               boolean esBachiller) {
         super(cedula, nombre, opcion1, opcion2, esAbanderado, bachilleratoAfin,
-              capacidadEspecial, porcentajeCapacidadEspecial);
-        this.esBachiller = esBachiller;
+              capacidadEspecial, porcentajeCapacidadEspecial, esBachiller);
         this.estadoOpc1 = "PENDIENTE";
         this.estadoOpc2 = "PENDIENTE";
-    }
-
-    public boolean isEsBachiller() {
-        return esBachiller;
     }
 
     @Override
@@ -39,13 +33,13 @@ public class Postulante_Online extends Postulante {
 
     @Override
     public void procesarAdmision(CarreraDAO carreraDAO) {
-        if (!esBachiller) {
-            estadoOpc1 = "RECHAZADO POR REQUISITO";
-            estadoOpc2 = "RECHAZADO POR REQUISITO";
+        if (!isEsBachiller()) {
+            estadoOpc1 = "RECHAZADO POR REQUISITO(SER BACHILLER)";
+            estadoOpc2 = "RECHAZADO POR REQUISITO(SER BACHILLER)";
             return;
         }
 
-        Carrera carrOpc1 = carreraDAO.buscarCarrera(getOpcion1());
+        Carrera carrOpc1 = carreraDAO.buscarCarrera(getOpcion1(), "VIRTUAL");
         if (carrOpc1 != null) {
             if (carrOpc1.hayCupoDisponible()) {
                 carrOpc1.tomarCupo();
@@ -55,7 +49,7 @@ public class Postulante_Online extends Postulante {
             }
         }
 
-        Carrera carrOpc2 = carreraDAO.buscarCarrera(getOpcion2());
+        Carrera carrOpc2 = carreraDAO.buscarCarrera(getOpcion2(), "VIRTUAL");
         if (carrOpc2 != null) {
             if (carrOpc2.hayCupoDisponible()) {
                 carrOpc2.tomarCupo();
@@ -64,5 +58,10 @@ public class Postulante_Online extends Postulante {
                 estadoOpc2 = "RECHAZADO SIN CUPOS DISPONIBLES";
             }
         }
+    }
+    
+    @Override
+    public String getModalidad() {
+        return "VIRTUAL";
     }
 }

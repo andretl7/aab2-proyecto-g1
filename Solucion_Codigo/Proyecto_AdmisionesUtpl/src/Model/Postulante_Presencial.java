@@ -8,9 +8,10 @@ public class Postulante_Presencial extends Postulante {
 
     public Postulante_Presencial(String cedula, String nombre, String opcion1, String opcion2,
                                  boolean esAbanderado, boolean bachilleratoAfin,
-                                 boolean capacidadEspecial, int porcentajeCapacidadEspecial) {
+                                 boolean capacidadEspecial, int porcentajeCapacidadEspecial,
+                                 boolean esBachiller) {                          
         super(cedula, nombre, opcion1, opcion2, esAbanderado, bachilleratoAfin,
-              capacidadEspecial, porcentajeCapacidadEspecial);
+              capacidadEspecial, porcentajeCapacidadEspecial, esBachiller);
     }
 
     public Examen getExamenOpc1() {
@@ -31,6 +32,11 @@ public class Postulante_Presencial extends Postulante {
 
     @Override
     public void procesarAdmision(CarreraDAO carreraDAO) {
+        if (!isEsBachiller()) {
+            if (examenOpc1 != null) examenOpc1.rechazarPorRequisito();
+            if (examenOpc2 != null) examenOpc2.rechazarPorRequisito();
+            return;
+        }
         if (examenOpc1 != null) {
             double puntajeFinal1 = examenOpc1.getPuntajeObtenido() + sumaMeritos();
             examenOpc1.evaluar(puntajeFinal1);
@@ -40,6 +46,7 @@ public class Postulante_Presencial extends Postulante {
             examenOpc2.evaluar(puntajeFinal2);
         }
     }
+
 
     @Override
     public String getEstadoOpc1() {
@@ -61,5 +68,10 @@ public class Postulante_Presencial extends Postulante {
             pendientes.add(examenOpc2);
         }
         return pendientes;
+    }
+    
+    @Override
+    public String getModalidad() {
+        return "PRESENCIAL";
     }
 }

@@ -20,13 +20,14 @@ public class ExamenDAO {
             while (rs.next()) {
                 String cedula = rs.getString("cedulaPostulante");
                 Postulante post = postulanteDAO.buscarPostulante(cedula);
-
+                
+                
                 if (!(post instanceof Postulante_Presencial)) {
                     continue; // los virtuales no tienen examen, se ignora la fila
                 }
                 Postulante_Presencial postPres = (Postulante_Presencial) post;
 
-                Carrera carrera = carreraDAO.buscarCarrera(rs.getString("nombreCarrera"));
+                Carrera carrera = carreraDAO.buscarCarrera(rs.getString("nombreCarrera"), "PRESENCIAL"); //Siempre es para carreras presenciales
                 Horario horario = new Horario(
                     rs.getString("fecha"),
                     rs.getString("hora"),

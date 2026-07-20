@@ -48,7 +48,11 @@ public abstract class Examen {
     public String getEstado() {
         return estado;
     }
-
+    
+    public void rechazarPorRequisito() {
+        setEstado("RECHAZADO POR REQUISITO(SER BACHILLER)");
+    }
+    
     protected void setEstado(String estado) {
         this.estado = estado;
     }

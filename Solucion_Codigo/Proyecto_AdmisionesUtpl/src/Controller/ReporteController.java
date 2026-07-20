@@ -30,13 +30,13 @@ public class ReporteController {
         for (Postulante post : postulanteDAO.getPostulantes()) {
 
             if (post.getEstadoOpc1().equals("RECHAZADO SIN CUPOS DISPONIBLES")) {
-                Carrera c1 = carreraDAO.buscarCarrera(post.getOpcion1());
+                Carrera c1 = carreraDAO.buscarCarrera(post.getOpcion1(), post.getModalidad());
                 if (c1 != null && !carrerasRechazos.contains(c1)) {
                     carrerasRechazos.add(c1);
                 }
             }
             if (post.getEstadoOpc2().equals("RECHAZADO SIN CUPOS DISPONIBLES")) {
-                Carrera c2 = carreraDAO.buscarCarrera(post.getOpcion2());
+                Carrera c2 = carreraDAO.buscarCarrera(post.getOpcion2(), post.getModalidad());
                 if (c2 != null && !carrerasRechazos.contains(c2)) {
                     carrerasRechazos.add(c2);
                 }

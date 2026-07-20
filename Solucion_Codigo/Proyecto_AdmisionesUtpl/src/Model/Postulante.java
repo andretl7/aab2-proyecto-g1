@@ -11,11 +11,13 @@ public abstract class Postulante {
     private boolean bachilleratoAfin;
     private boolean capacidadEspecial;
     private int porcentajeCapacidadEspecial;
+    private boolean esBachiller;              
     private ArrayList<IndicadorMerito> meritos;
 
     public Postulante(String cedula, String nombre, String opcion1, String opcion2,
                        boolean esAbanderado, boolean bachilleratoAfin,
-                       boolean capacidadEspecial, int porcentajeCapacidadEspecial) {
+                       boolean capacidadEspecial, int porcentajeCapacidadEspecial,
+                       boolean esBachiller) {                          
         this.cedula = cedula;
         this.nombre = nombre;
         this.opcion1 = opcion1;
@@ -24,7 +26,12 @@ public abstract class Postulante {
         this.bachilleratoAfin = bachilleratoAfin;
         this.capacidadEspecial = capacidadEspecial;
         this.porcentajeCapacidadEspecial = porcentajeCapacidadEspecial;
+        this.esBachiller = esBachiller;                              
         this.meritos = new ArrayList<IndicadorMerito>();
+    }
+
+    public boolean isEsBachiller() {         
+        return esBachiller;
     }
 
     public abstract void procesarAdmision(CarreraDAO carreraDAO);
@@ -41,6 +48,8 @@ public abstract class Postulante {
         }
         return suma;
     }
+    
+    public abstract String getModalidad();
 
     public String getCedula() {
         return cedula;

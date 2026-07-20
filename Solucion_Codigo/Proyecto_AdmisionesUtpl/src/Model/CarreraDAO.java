@@ -20,6 +20,7 @@ public class CarreraDAO {
     }
 
     public ArrayList<Carrera> leerCarreras() {
+        carreras.clear();
         String sql = "SELECT * FROM Carrera";
         try (PreparedStatement ps = conexion.prepareStatement(sql);
              ResultSet rs = ps.executeQuery()) {
@@ -46,9 +47,10 @@ public class CarreraDAO {
         return carreras;
     }
 
-    public Carrera buscarCarrera(String nombre) {
+    public Carrera buscarCarrera(String nombre, String modalidad) {
+        //Busca tambien de acuerdo a la modalidad
         for (Carrera c : carreras) {
-            if (c.getNombre().equalsIgnoreCase(nombre)) {
+            if (c.getNombre().equalsIgnoreCase(nombre) && c.getModalidad().equalsIgnoreCase(modalidad)) {
                 return c;
             }
         }

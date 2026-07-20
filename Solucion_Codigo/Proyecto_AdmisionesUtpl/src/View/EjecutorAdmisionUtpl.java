@@ -19,8 +19,8 @@ public class EjecutorAdmisionUtpl {
 
         carreraDAO.leerCarreras();
         postulanteDAO.leerPostulantes();
-        examenDAO.cargarExamenes(postulanteDAO, carreraDAO);
-
+        examenDAO.cargarExamenes(postulanteDAO, carreraDAO);  
+        
         PostulanteController postulanteController = new PostulanteController(postulanteDAO);
         postulanteController.asignarMeritos();
 
@@ -50,6 +50,7 @@ public class EjecutorAdmisionUtpl {
         System.out.println("Admitidos: " + stats[0]);
         System.out.println("Rechazados: " + stats[1]);
         System.out.println("Nivelacion: " + stats[2]);
+        
 
         conexionBD.cerrarConexion();
     }

@@ -15,6 +15,7 @@ public class ConexionDB {
             if (conexion == null || conexion.isClosed()) {
                 conexion = DriverManager.getConnection(URL);
             }
+            
         } catch (SQLException e) {
             throw new RuntimeException("No se pudo conectar a la base de datos: " + e.getMessage());
         }
@@ -23,14 +24,15 @@ public class ConexionDB {
 
     public void inicializarBaseDatos() {
         String sqlCarrera =
-            "CREATE TABLE IF NOT EXISTS Carrera (" +
-            "  nombre TEXT PRIMARY KEY," +
-            "  modalidad TEXT NOT NULL," +
-            "  puntajeMinimo INTEGER," +
-            "  limiteNivelacion INTEGER," +
-            "  cuposDisponibles INTEGER NOT NULL," +
-            "  cuposTomados INTEGER NOT NULL DEFAULT 0" +
-            ")";
+        "CREATE TABLE IF NOT EXISTS Carrera (" +
+        "  nombre TEXT NOT NULL," +
+        "  modalidad TEXT NOT NULL," +
+        "  puntajeMinimo INTEGER," +
+        "  limiteNivelacion INTEGER," +
+        "  cuposDisponibles INTEGER NOT NULL," +
+        "  cuposTomados INTEGER NOT NULL DEFAULT 0," +
+        "  PRIMARY KEY (nombre, modalidad)" +  //Compuesta en lugar de primaria(Para carreras online y presencial)
+        ")";
 
         String sqlPostulante =
             "CREATE TABLE IF NOT EXISTS Postulante (" +
@@ -57,20 +59,21 @@ public class ConexionDB {
             ")";
 
         String sqlExamen =
-            "CREATE TABLE IF NOT EXISTS Examen (" +
-            "  id INTEGER PRIMARY KEY AUTOINCREMENT," +
-            "  cedulaPostulante TEXT NOT NULL," +
-            "  numeroOpcion INTEGER NOT NULL," +
-            "  nombreCarrera TEXT NOT NULL," +
-            "  tipoExamen TEXT NOT NULL," +
-            "  fecha TEXT," +
-            "  hora TEXT," +
-            "  lugar TEXT," +
-            "  aula TEXT," +
-            "  puntajeObtenido REAL," +
-            "  FOREIGN KEY (cedulaPostulante) REFERENCES Postulante(cedula)," +
-            "  FOREIGN KEY (nombreCarrera) REFERENCES Carrera(nombre)" +
-            ")";
+        "CREATE TABLE IF NOT EXISTS Examen (" +
+        "  id INTEGER PRIMARY KEY AUTOINCREMENT," +
+        "  cedulaPostulante TEXT NOT NULL," +
+        "  numeroOpcion INTEGER NOT NULL," +
+        "  nombreCarrera TEXT NOT NULL," +
+        "  modalidadCarrera TEXT NOT NULL DEFAULT 'PRESENCIAL'," + //Todo examen es siempre de carreras presenciales
+        "  tipoExamen TEXT NOT NULL," +
+        "  fecha TEXT," +
+        "  hora TEXT," +
+        "  lugar TEXT," +
+        "  aula TEXT," +
+        "  puntajeObtenido REAL," +
+        "  FOREIGN KEY (cedulaPostulante) REFERENCES Postulante(cedula)," +
+        "  FOREIGN KEY (nombreCarrera, modalidadCarrera) REFERENCES Carrera(nombre, modalidad)" +
+        ")";
 
         String sqlResultados =
             "CREATE TABLE IF NOT EXISTS Resultados (" +

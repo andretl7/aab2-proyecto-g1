@@ -23,6 +23,8 @@ public abstract class Carrera {
     public String getNombre() {
         return nombre;
     }
+    
+    public abstract String getModalidad();
 
     public int getCuposDisponibles() {
         return cuposDisponibles;
